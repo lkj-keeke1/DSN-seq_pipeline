@@ -1,0 +1,12 @@
+Ath_DSN_rep1	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Ath_DSN_rep1.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Ath_DSN_rep1.dedup.R2.fq.gz
+Ath_DSN_rep2	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Ath_DSN_rep2.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Ath_DSN_rep2.dedup.R2.fq.gz
+Ath_DSN_rep3	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Ath_DSN_rep3.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Ath_DSN_rep3.dedup.R2.fq.gz
+Osa_DSN_rep1	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_DSN_rep1.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_DSN_rep1.dedup.R2.fq.gz
+Osa_DSN_rep2	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_DSN_rep2.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_DSN_rep2.dedup.R2.fq.gz
+Osa_DSN_rep3	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_DSN_rep3.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_DSN_rep3.dedup.R2.fq.gz
+Osa_PolyA_rep1	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_PolyA_rep1.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_PolyA_rep1.dedup.R2.fq.gz
+Osa_PolyA_rep2	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_PolyA_rep2.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_PolyA_rep2.dedup.R2.fq.gz
+Osa_PolyA_rep3	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_PolyA_rep3.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_PolyA_rep3.dedup.R2.fq.gz
+Osa_Ribo-off_rep1	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_Ribo-off_rep1.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_Ribo-off_rep1.dedup.R2.fq.gz
+Osa_Ribo-off_rep2	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_Ribo-off_rep2.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_Ribo-off_rep2.dedup.R2.fq.gz
+Osa_Ribo-off_rep3	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_Ribo-off_rep3.dedup.R1.fq.gz	/home/hj-z2/projects/DSN-seq/data/seq_data/RNA_editing/UID/Osa_Ribo-off_rep3.dedup.R2.fq.gz

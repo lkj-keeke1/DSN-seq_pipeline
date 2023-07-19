@@ -1,0 +1,4 @@
+/home/hj-z2/projects/DSN-seq/results/P1_call_editing	Osa_DSN_merge	/home/hj-z2/projects/DSN-seq/data/ref/Osa/Osa_organelle_multi-FASTA.fa	/home/hj-z2/projects/DSN-seq/data/ref/Osa/Osa_organelle_gene_length.table
+/home/hj-z2/projects/DSN-seq/results/P1_call_editing	Osa_PolyA_merge	/home/hj-z2/projects/DSN-seq/data/ref/Osa/Osa_organelle_multi-FASTA.fa	/home/hj-z2/projects/DSN-seq/data/ref/Osa/Osa_organelle_gene_length.table
+/home/hj-z2/projects/DSN-seq/results/P1_call_editing	Osa_Ribo-off_merge	/home/hj-z2/projects/DSN-seq/data/ref/Osa/Osa_organelle_multi-FASTA.fa	/home/hj-z2/projects/DSN-seq/data/ref/Osa/Osa_organelle_gene_length.table
+/home/hj-z2/projects/DSN-seq/results/P1_call_editing	Ath_DSN_merge	/home/hj-z2/projects/DSN-seq/data/ref/Ath/Ath_organelle_multi-FASTA.fa	/home/hj-z2/projects/DSN-seq/data/ref/Ath/Ath_organelle_gene_length.table

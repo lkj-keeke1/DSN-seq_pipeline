@@ -1,0 +1,531 @@
+edit_id	DSN_det	DSN_num	STS_det	seq	posi	editing_type	chr	Name	gene_biotype	product	codon_num	codon_posi	codon_start_bed	codon_end_bed	pri_codon	pri_amino_acid	aft_codon	aft_amino_acid	codon_change	aa_change	syno	Ath_DSN_merge_extent	Ath_DSN_merge_depth	Ath_DSN_rep1_extent	Ath_DSN_rep1_depth	Ath_DSN_rep2_extent	Ath_DSN_rep2_depth	Ath_DSN_rep3_extent	Ath_DSN_rep3_depth	Ath_STS_extent	Ath_STS_depth
+accD_pt 794 CT	TRUE	3	TRUE	accD_pt	794	CT	Pt	accD	protein_coding	acetyl-CoA carboxylase beta subunit	265	2	792	795	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	96.37	15324	94.38	6001	97.96	3820	97.43	5503	86.72	31463
+atp1_mt 1110 CT	TRUE	2	FALSE	atp1_mt	1110	CT	Mt	atp1	protein_coding	ATPase subunit 1	370	3	1107	1110	GTC	V	GTT	V	GTC->GTT	V->V	syn	10.55	3004	10.06	1153	NA	NA	12.28	928	NA	NA
+atp1_mt 1178 CT	TRUE	3	TRUE	atp1_mt	1178	CT	Mt	atp1	protein_coding	ATPase subunit 1	393	2	1176	1179	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.66	4092	98.95	1521	97.7	1307	99.29	1264	97.09	13800
+atp1_mt 1292 CT	TRUE	3	TRUE	atp1_mt	1292	CT	Mt	atp1	protein_coding	ATPase subunit 1	431	2	1290	1293	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	98.07	4407	97.81	1644	97.89	1372	98.56	1391	97.84	13468
+atp1_mt 1415 CT	TRUE	3	TRUE	atp1_mt	1415	CT	Mt	atp1	protein_coding	ATPase subunit 1	472	2	1413	1416	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	97.9	8804	97.59	3324	97.63	2739	98.54	2741	92.85	13163
+atp1_mt 1425 CT	TRUE	2	TRUE	atp1_mt	1425	CT	Mt	atp1	protein_coding	ATPase subunit 1	475	3	1422	1425	GTC	V	GTT	V	GTC->GTT	V->V	syn	11.32	8384	11.82	3199	13.61	2586	NA	NA	12.06	13446
+atp1_mt 1484 CT	TRUE	3	TRUE	atp1_mt	1484	CT	Mt	atp1	protein_coding	ATPase subunit 1	495	2	1482	1485	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	98.45	9605	98.49	3915	98.2	2719	98.62	2971	95.76	16654
+atp4_mt 89 CT	TRUE	3	TRUE	atp4_mt	89	CT	Mt	atp4	protein_coding	ATPase subunit 4	30	2	87	90	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.33	2228	99.41	845	99.84	625	98.81	758	85.01	47883
+atp4_mt 138 CT	TRUE	3	TRUE	atp4_mt	138	CT	Mt	atp4	protein_coding	ATPase subunit 4	46	3	135	138	ATC	I	ATT	I	ATC->ATT	I->I	syn	93.8	2516	93.89	884	95.81	763	91.94	869	54.44	32862
+atp4_mt 144 CT	TRUE	3	FALSE	atp4_mt	144	CT	Mt	atp4	protein_coding	ATPase subunit 4	48	3	141	144	TTC	F	TTT	F	TTC->TTT	F->F	syn	13.12	2485	12.73	880	15.34	756	11.54	849	NA	NA
+atp4_mt 215 CT	TRUE	3	TRUE	atp4_mt	215	CT	Mt	atp4	protein_coding	ATPase subunit 4	72	2	213	216	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	99.8	2033	99.57	701	99.84	617	100	715	89.37	31202
+atp4_mt 248 CT	TRUE	3	TRUE	atp4_mt	248	CT	Mt	atp4	protein_coding	ATPase subunit 4	83	2	246	249	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	99.4	1340	98.78	492	99.74	391	99.78	457	89.65	29164
+atp4_mt 250 CT	TRUE	3	TRUE	atp4_mt	250	CT	Mt	atp4	protein_coding	ATPase subunit 4	84	1	249	252	CCG	P	TTG	L	CCG->TTG	P->L	non-syn	83.69	1343	85.05	495	84.65	391	81.4	457	59.41	29417
+atp4_mt 251 CT	TRUE	3	TRUE	atp4_mt	251	CT	Mt	atp4	protein_coding	ATPase subunit 4	84	2	249	252	CCG	P	TTG	L	CCG->TTG	P->L	non-syn	99.93	1343	99.8	495	100	391	100	457	92	29548
+atp4_mt 382 CT	TRUE	3	TRUE	atp4_mt	382	CT	Mt	atp4	protein_coding	ATPase subunit 4	128	1	381	384	CTA	L	TTA	L	CTA->TTA	L->L	syn	37.81	3052	37.37	950	38.77	962	37.37	1140	25.79	24202
+atp4_mt 395 CT	TRUE	3	TRUE	atp4_mt	395	CT	Mt	atp4	protein_coding	ATPase subunit 4	132	2	393	396	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.37	3033	99.13	924	99.49	979	99.47	1130	83.57	22255
+atp4_mt 416 CT	TRUE	3	TRUE	atp4_mt	416	CT	Mt	atp4	protein_coding	ATPase subunit 4	139	2	414	417	ACT	T	ATT	I	ACT->ATT	T->I	non-syn	98.52	3041	99.13	917	97.96	980	98.51	1144	81.22	19944
+atp6_mt 475 CT	TRUE	3	TRUE	atp6_mt	475	CT	Mt	atp6	protein_coding	ATPase subunit 6	159	1	474	477	CCA	P	TCA	S	CCA->TCA	P->S	non-syn	95.8	238	95.73	117	100	49	93.06	72	77.43	29502
+atp8_mt 10 CT	TRUE	3	TRUE	atp8_mt	10	CT	Mt	atp8	protein_coding	ATPase subunit 8	4	1	9	12	CTG	L	TTG	L	CTG->TTG	L->L	syn	24.53	1651	26.58	730	21.64	476	24.27	445	41.29	36396
+atp8_mt 389 CT	FALSE	2	FALSE	atp8_mt	389	CT	Mt	atp8	protein_coding	ATPase subunit 8	130	2	387	390	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	NA	NA	NA	NA	10.23	1896	10.17	2222	NA	NA
+atp9_mt 20 CT	TRUE	3	TRUE	atp9_mt	20	CT	Mt	atp9	protein_coding	ATPase subunit 9	7	2	18	21	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.37	2706	99.32	1323	98.96	575	99.75	808	97.42	94506
+atp9_mt 50 CT	TRUE	3	TRUE	atp9_mt	50	CT	Mt	atp9	protein_coding	ATPase subunit 9	17	2	48	51	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.55	1767	99.45	907	99.72	358	99.6	502	96.44	94984
+atp9_mt 134 CT	TRUE	3	TRUE	atp9_mt	134	CT	Mt	atp9	protein_coding	ATPase subunit 9	45	2	132	135	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.86	2101	99.13	1038	96.84	474	100	589	97.08	89602
+atp9_mt 191 CT	TRUE	3	TRUE	atp9_mt	191	CT	Mt	atp9	protein_coding	ATPase subunit 9	64	2	189	192	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	99.62	2662	99.69	1303	99	603	100	756	96.72	89901
+atpF_pt 92 CT	TRUE	3	TRUE	atpF_pt	92	CT	Pt	atpF	protein_coding	ATP synthase CF0 B subunit	31	2	90	93	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	98.73	45757	98.81	21479	98.87	10336	98.5	13942	97.52	55801
+ccmB_mt 16 CT	TRUE	3	TRUE	ccmB_mt	16	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	6	1	15	18	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	73.77	62	81.82	23	76.47	17	63.64	22	33.57	80508
+ccmB_mt 28 CT	TRUE	3	TRUE	ccmB_mt	28	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	10	1	27	30	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	66.15	65	68.75	32	66.67	12	61.9	21	37.75	82809
+ccmB_mt 71 CT	TRUE	2	TRUE	ccmB_mt	71	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	24	2	69	72	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	11.88	303	14.69	143	10.39	77	NA	NA	38.77	85446
+ccmB_mt 80 CT	TRUE	1	TRUE	ccmB_mt	80	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	27	2	78	81	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	10.96	301	13.99	143	NA	NA	NA	NA	31.46	84469
+ccmB_mt 128 CT	FALSE	1	TRUE	ccmB_mt	128	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	43	2	126	129	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	NA	NA	NA	NA	11.21	107	NA	NA	35.27	84109
+ccmB_mt 137 CT	FALSE	1	TRUE	ccmB_mt	137	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	46	2	135	138	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	NA	NA	NA	NA	11.21	107	NA	NA	36.05	82538
+ccmB_mt 148 CT	FALSE	0	TRUE	ccmB_mt	148	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	50	1	147	150	CCG	P	TTG	L	CCG->TTG	P->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	29.97	22359
+ccmB_mt 149 CT	FALSE	0	TRUE	ccmB_mt	149	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	50	2	147	150	CCG	P	TTG	L	CCG->TTG	P->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	31.63	21392
+ccmB_mt 154 CT	FALSE	1	TRUE	ccmB_mt	154	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	52	1	153	156	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	NA	NA	NA	NA	NA	NA	10.66	122	33.7	20304
+ccmB_mt 159 CT	FALSE	2	TRUE	ccmB_mt	159	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	53	3	156	159	ATC	I	ATT	I	ATC->ATT	I->I	syn	NA	NA	NA	NA	13.39	112	10.66	122	30.66	19283
+ccmB_mt 160 CT	FALSE	2	TRUE	ccmB_mt	160	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	54	1	159	162	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	NA	NA	NA	NA	12.82	117	10.66	122	30.92	19257
+ccmB_mt 164 CT	FALSE	2	TRUE	ccmB_mt	164	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	55	2	162	165	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	NA	NA	NA	NA	12.82	117	10.4	125	30.85	19332
+ccmB_mt 172 CT	FALSE	2	TRUE	ccmB_mt	172	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	58	1	171	174	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	NA	NA	NA	NA	11.9	126	12.77	141	37.22	18381
+ccmB_mt 179 CT	FALSE	1	TRUE	ccmB_mt	179	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	60	2	177	180	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	NA	NA	NA	NA	NA	NA	11.76	153	27.92	66972
+ccmB_mt 181 CT	FALSE	1	TRUE	ccmB_mt	181	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	61	1	180	183	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	NA	NA	NA	NA	NA	NA	11.61	155	29.17	69004
+ccmB_mt 193 CT	FALSE	1	TRUE	ccmB_mt	193	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	65	1	192	195	CCT	P	TTT	F	CCT->TTT	P->F	non-syn	NA	NA	NA	NA	NA	NA	10.37	164	25.12	81384
+ccmB_mt 194 CT	FALSE	1	TRUE	ccmB_mt	194	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	65	2	192	195	CCT	P	TTT	F	CCT->TTT	P->F	non-syn	NA	NA	NA	NA	NA	NA	10.62	160	25.64	81767
+ccmB_mt 286 CT	FALSE	2	TRUE	ccmB_mt	286	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	96	1	285	288	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	NA	NA	12.61	222	NA	NA	10.49	143	43.1	90225
+ccmB_mt 304 CT	FALSE	2	TRUE	ccmB_mt	304	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	102	1	303	306	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	NA	NA	13.12	221	NA	NA	10.87	138	43.29	92362
+ccmB_mt 338 CT	TRUE	2	TRUE	ccmB_mt	338	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	113	2	336	339	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	14.46	408	18.27	197	NA	NA	14.44	90	75.56	22968
+ccmB_mt 367 CT	TRUE	2	TRUE	ccmB_mt	367	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	123	1	366	369	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	12.98	416	17.2	186	NA	NA	12.77	94	70.16	30599
+ccmB_mt 379 CT	TRUE	1	TRUE	ccmB_mt	379	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	127	1	378	381	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	11.86	413	17.3	185	NA	NA	NA	NA	67.63	32750
+ccmB_mt 380 CT	TRUE	1	TRUE	ccmB_mt	380	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	127	2	378	381	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	12.5	408	18.13	182	NA	NA	NA	NA	72.61	33018
+ccmB_mt 406 CT	FALSE	0	TRUE	ccmB_mt	406	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	136	1	405	408	CTG	L	TTG	L	CTG->TTG	L->L	syn	NA	NA	NA	NA	NA	NA	NA	NA	29.97	37089
+ccmB_mt 424 CT	FALSE	0	TRUE	ccmB_mt	424	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	142	1	423	426	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	73.67	41106
+ccmB_mt 428 CT	FALSE	0	TRUE	ccmB_mt	428	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	143	2	426	429	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	76.23	41852
+ccmB_mt 467 CT	FALSE	0	TRUE	ccmB_mt	467	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	156	2	465	468	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	72.92	42526
+ccmB_mt 475 CT	FALSE	0	TRUE	ccmB_mt	475	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	159	1	474	477	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	73.93	41915
+ccmB_mt 476 CT	FALSE	0	TRUE	ccmB_mt	476	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	159	2	474	477	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	73.84	42021
+ccmB_mt 485 CT	FALSE	0	TRUE	ccmB_mt	485	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	162	2	483	486	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	74.35	43913
+ccmB_mt 512 CT	FALSE	0	TRUE	ccmB_mt	512	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	171	2	510	513	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	70.47	66440
+ccmB_mt 514 CT	FALSE	0	TRUE	ccmB_mt	514	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	172	1	513	516	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	77.91	66491
+ccmB_mt 551 CT	FALSE	0	TRUE	ccmB_mt	551	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	184	2	549	552	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	76.36	60925
+ccmB_mt 554 CT	FALSE	0	TRUE	ccmB_mt	554	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	185	2	552	555	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	76.47	60876
+ccmB_mt 566 CT	FALSE	0	TRUE	ccmB_mt	566	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	189	2	564	567	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	75.37	58555
+ccmB_mt 569 CT	FALSE	0	TRUE	ccmB_mt	569	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	190	2	567	570	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	75.62	57882
+ccmB_mt 576 CT	FALSE	0	TRUE	ccmB_mt	576	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	192	3	573	576	TTC	F	TTT	F	TTC->TTT	F->F	syn	NA	NA	NA	NA	NA	NA	NA	NA	16.8	58310
+ccmB_mt 596 CT	FALSE	0	TRUE	ccmB_mt	596	CT	Mt	ccmB	protein_coding	cytochrome c biogenesis B	199	2	594	597	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	71.34	55705
+ccmC_mt 103 CT	TRUE	3	TRUE	ccmC_mt	103	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	35	1	102	105	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	84.71	255	81.25	112	88.24	68	86.67	75	91.2	92694
+ccmC_mt 133 CT	TRUE	3	TRUE	ccmC_mt	133	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	45	1	132	135	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	84.19	215	78.89	90	81.36	59	93.94	66	94.69	94046
+ccmC_mt 179 CT	TRUE	3	TRUE	ccmC_mt	179	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	60	2	177	180	GCG	A	GTG	V	GCG->GTG	A->V	non-syn	92.76	152	93.33	60	88.14	59	100	33	94.1	93647
+ccmC_mt 184 CT	TRUE	3	TRUE	ccmC_mt	184	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	62	1	183	186	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	88.24	170	90.91	77	88.33	60	81.82	33	82.9	93839
+ccmC_mt 252 CT	TRUE	3	TRUE	ccmC_mt	252	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	84	3	249	252	CCC	P	CCT	P	CCC->CCT	P->P	syn	60.5	200	57.14	112	71.43	49	56.41	39	23.56	30425
+ccmC_mt 270 CT	TRUE	2	TRUE	ccmC_mt	270	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	90	3	267	270	TCC	S	TCT	S	TCC->TCT	S->S	syn	12.56	199	12.17	115	17.39	46	NA	NA	15.07	37053
+ccmC_mt 331 CT	TRUE	3	TRUE	ccmC_mt	331	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	111	1	330	333	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	80	205	78.72	94	83.64	55	78.57	56	92.19	70644
+ccmC_mt 381 CT	FALSE	2	TRUE	ccmC_mt	381	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	127	3	378	381	ACC	T	ACT	T	ACC->ACT	T->T	syn	NA	NA	11.25	80	NA	NA	11.86	59	12.23	86513
+ccmC_mt 395 CT	TRUE	3	TRUE	ccmC_mt	395	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	132	2	393	396	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	76.96	217	74.71	87	77.61	67	79.37	63	95.28	86959
+ccmC_mt 400 CT	TRUE	3	TRUE	ccmC_mt	400	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	134	1	399	402	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	70.05	217	65.52	87	67.16	67	79.37	63	84.02	87025
+ccmC_mt 421 CT	TRUE	3	TRUE	ccmC_mt	421	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	141	1	420	423	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	67.4	227	58.89	90	73.91	69	72.06	68	87.36	88220
+ccmC_mt 436 CT	TRUE	3	TRUE	ccmC_mt	436	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	146	1	435	438	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	72.9	214	67.47	83	75	68	77.78	63	61.79	62051
+ccmC_mt 446 CT	TRUE	3	TRUE	ccmC_mt	446	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	149	2	444	447	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	72.64	212	65.85	82	76.12	67	77.78	63	97.2	42684
+ccmC_mt 458 CT	TRUE	3	TRUE	ccmC_mt	458	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	153	2	456	459	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	67.14	210	59.76	82	73.13	67	70.49	61	87.71	45879
+ccmC_mt 463 CT	TRUE	3	TRUE	ccmC_mt	463	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	155	1	462	465	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	70.05	207	64.56	79	76.12	67	70.49	61	94.47	47837
+ccmC_mt 467 CT	TRUE	3	TRUE	ccmC_mt	467	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	156	2	465	468	GCT	A	GTT	V	GCT->GTT	A->V	non-syn	43.93	107	38.3	47	42.86	28	53.12	32	92.99	48950
+ccmC_mt 473 CT	TRUE	3	TRUE	ccmC_mt	473	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	158	2	471	474	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	43.56	101	36.59	41	42.86	28	53.12	32	95.92	50654
+ccmC_mt 497 CT	TRUE	3	TRUE	ccmC_mt	497	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	166	2	495	498	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	42.34	111	33.33	42	50	26	46.51	43	89.03	58168
+ccmC_mt 521 CT	TRUE	2	TRUE	ccmC_mt	521	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	174	2	519	522	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	26.26	99	25.64	39	NA	NA	30.3	33	97.09	47668
+ccmC_mt 548 CT	TRUE	1	TRUE	ccmC_mt	548	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	183	2	546	549	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	19.48	77	NA	NA	NA	NA	26.67	30	95.39	48165
+ccmC_mt 568 CT	TRUE	1	TRUE	ccmC_mt	568	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	190	1	567	570	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	15.24	105	NA	NA	NA	NA	25	32	96.05	76869
+ccmC_mt 575 CT	TRUE	2	TRUE	ccmC_mt	575	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	192	2	573	576	CCC	P	CTC	L	CCC->CTC	P->L	non-syn	17.14	105	20.51	39	NA	NA	25.81	31	96.97	74890
+ccmC_mt 608 CT	FALSE	1	TRUE	ccmC_mt	608	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	203	2	606	609	CCC	P	CTC	L	CCC->CTC	P->L	non-syn	NA	NA	NA	NA	NA	NA	15.69	51	98.48	65749
+ccmC_mt 614 CT	TRUE	2	TRUE	ccmC_mt	614	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	205	2	612	615	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	10.4	173	10.53	76	NA	NA	17.02	47	97.49	64785
+ccmC_mt 618 CT	FALSE	1	TRUE	ccmC_mt	618	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	206	3	615	618	ACC	T	ACT	T	ACC->ACT	T->T	syn	NA	NA	10.53	76	NA	NA	NA	NA	85.83	62774
+ccmC_mt 619 CT	FALSE	1	TRUE	ccmC_mt	619	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	207	1	618	621	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	NA	NA	10.39	77	NA	NA	NA	NA	96.17	62572
+ccmC_mt 624 CT	FALSE	0	TRUE	ccmC_mt	624	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	208	3	621	624	ATC	I	ATT	I	ATC->ATT	I->I	syn	NA	NA	NA	NA	NA	NA	NA	NA	44.24	62598
+ccmC_mt 650 CT	FALSE	0	TRUE	ccmC_mt	650	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	217	2	648	651	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	97.36	55623
+ccmC_mt 655 CT	FALSE	0	TRUE	ccmC_mt	655	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	219	1	654	657	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	11.09	55491
+ccmC_mt 656 CT	FALSE	0	TRUE	ccmC_mt	656	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	219	2	654	657	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	96.62	55069
+ccmC_mt 673 CT	FALSE	0	TRUE	ccmC_mt	673	CT	Mt	ccmC	protein_coding	cytochrome c biogenesis C	225	1	672	675	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	84.41	51320
+ccmFC_mt 50 CT	TRUE	3	TRUE	ccmFC_mt	50	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	17	2	48	51	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	52.38	105	53.7	54	64.71	17	44.12	34	98.69	31258
+ccmFC_mt 103 CT	TRUE	3	TRUE	ccmFC_mt	103	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	35	1	102	105	CCC	P	TCC	S	CCC->TCC	P->S	non-syn	60.93	151	65.33	75	48.28	29	61.7	47	98.41	34619
+ccmFC_mt 122 CT	TRUE	3	TRUE	ccmFC_mt	122	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	41	2	120	123	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	58.99	178	60.67	89	47.22	36	64.15	53	98.35	34480
+ccmFC_mt 123 CT	TRUE	3	TRUE	ccmFC_mt	123	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	41	3	120	123	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	50.56	178	51.69	89	44.44	36	52.83	53	70.54	34791
+ccmFC_mt 146 CT	TRUE	3	TRUE	ccmFC_mt	146	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	49	2	144	147	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	67.56	225	70.54	112	68.75	48	61.54	65	99.12	24380
+ccmFC_mt 155 CT	TRUE	3	TRUE	ccmFC_mt	155	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	52	2	153	156	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	44.62	316	55.71	140	29.49	78	40.82	98	98.94	23734
+ccmFC_mt 160 CT	TRUE	3	TRUE	ccmFC_mt	160	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	54	1	159	162	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	36.8	356	46.34	164	25	80	31.25	112	95.99	23714
+ccmFC_mt 175 CT	TRUE	3	TRUE	ccmFC_mt	175	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	59	1	174	177	CTA	L	TTA	L	CTA->TTA	L->L	syn	24.55	440	29.02	193	22.32	112	20	135	76.17	25084
+ccmFC_mt 333 CT	TRUE	3	TRUE	ccmFC_mt	333	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	111	3	330	333	TTC	F	TTT	F	TTC->TTT	F->F	syn	29.57	443	30.06	173	22.69	119	34.44	151	65.65	27794
+ccmFC_mt 334 CT	TRUE	3	TRUE	ccmFC_mt	334	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	112	1	333	336	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	37.56	442	37.79	172	33.61	119	40.4	151	97.81	27534
+ccmFC_mt 378 CT	FALSE	0	TRUE	ccmFC_mt	378	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	126	3	375	378	TTC	F	TTT	F	TTC->TTT	F->F	syn	NA	NA	NA	NA	NA	NA	NA	NA	13.13	29701
+ccmFC_mt 406 CT	TRUE	3	TRUE	ccmFC_mt	406	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	136	1	405	408	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	38.86	669	44.66	253	25.28	178	42.86	238	93.04	28655
+ccmFC_mt 415 CT	TRUE	3	TRUE	ccmFC_mt	415	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	139	1	414	417	CTC	L	TTC	F	CTC->TTC	L->F	non-syn	53.69	732	55.09	265	43.43	198	59.85	269	98.25	28284
+ccmFC_mt 561 CT	TRUE	3	TRUE	ccmFC_mt	561	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	187	3	558	561	GTC	V	GTT	V	GTC->GTT	V->V	syn	17.59	665	20	280	16.46	164	15.38	221	42.17	29942
+ccmFC_mt 832 CT	TRUE	3	TRUE	ccmFC_mt	832	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	278	1	831	834	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	19.97	4171	18.3	1273	19.11	1455	22.31	1443	23.64	76687
+ccmFC_mt 1172 CT	TRUE	3	TRUE	ccmFC_mt	1172	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	391	2	1170	1173	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	83.73	633	82.52	286	81.69	142	86.83	205	95.14	35292
+ccmFC_mt 1215 CT	TRUE	3	TRUE	ccmFC_mt	1215	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	405	3	1212	1215	ACC	T	ACT	T	ACC->ACT	T->T	syn	44.28	612	43	293	44.52	146	46.24	173	65.01	34024
+ccmFC_mt 1246 CT	TRUE	3	TRUE	ccmFC_mt	1246	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	416	1	1245	1248	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	58.78	621	56.06	289	67.52	157	55.43	175	73.48	49474
+ccmFC_mt 1280 CT	TRUE	3	TRUE	ccmFC_mt	1280	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	427	2	1278	1281	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	41.33	571	41.35	266	44.76	143	38.27	162	55.51	45965
+ccmFC_mt 1302 CT	FALSE	0	TRUE	ccmFC_mt	1302	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	434	3	1299	1302	CTC	L	CTT	L	CTC->CTT	L->L	syn	NA	NA	NA	NA	NA	NA	NA	NA	10.23	43919
+ccmFC_mt 1327 CT	TRUE	3	TRUE	ccmFC_mt	1327	CT	Mt	ccmFC	protein_coding	cytochrome c biogenesis FC	443	1	1326	1329	CGA	R	TGA	*	CGA->TGA	R->*	non-syn	79.41	573	73.52	253	77.55	147	89.6	173	93.11	42533
+ccmFN1_mt 44 CT	TRUE	2	TRUE	ccmFN1_mt	44	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	15	2	42	45	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	100	46	100	21	NA	NA	100	21	95	39559
+ccmFN1_mt 104 CT	TRUE	3	TRUE	ccmFN1_mt	104	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	35	2	102	105	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	100	42	100	16	100	13	100	13	95.29	35842
+ccmFN1_mt 143 CT	TRUE	3	TRUE	ccmFN1_mt	143	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	48	2	141	144	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	94.59	74	92.68	41	100	19	92.86	14	98.33	27851
+ccmFN1_mt 157 CT	TRUE	3	TRUE	ccmFN1_mt	157	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	53	1	156	159	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	94.64	112	92.31	52	95	20	97.5	40	97.05	29008
+ccmFN1_mt 262 CT	TRUE	3	TRUE	ccmFN1_mt	262	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	88	1	261	264	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	96.17	183	95.19	104	96.15	26	98.11	53	98.47	30721
+ccmFN1_mt 269 CT	TRUE	3	TRUE	ccmFN1_mt	269	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	90	2	267	270	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	96.3	189	96.19	105	93.33	30	98.15	54	99.04	29893
+ccmFN1_mt 289 CT	TRUE	3	TRUE	ccmFN1_mt	289	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	97	1	288	291	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	92.26	180	94.44	97	85.71	38	93.02	45	93.09	26961
+ccmFN1_mt 371 CT	TRUE	2	FALSE	ccmFN1_mt	371	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	124	2	369	372	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	14.81	189	19.75	81	NA	NA	18.75	64	NA	NA
+ccmFN1_mt 378 CT	TRUE	3	TRUE	ccmFN1_mt	378	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	126	3	375	378	TTC	F	TTT	F	TTC->TTT	F->F	syn	80.23	177	85.71	77	61.54	39	85.25	61	91.26	26678
+ccmFN1_mt 709 CT	TRUE	2	TRUE	ccmFN1_mt	709	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	237	1	708	711	CCT	P	TTT	F	CCT->TTT	P->F	non-syn	72.41	29	50	16	100	13	NA	NA	67.5	24116
+ccmFN1_mt 710 CT	TRUE	2	TRUE	ccmFN1_mt	710	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	237	2	708	711	CCT	P	TTT	F	CCT->TTT	P->F	non-syn	88.89	27	78.57	14	100	13	NA	NA	93.21	24164
+ccmFN1_mt 715 CT	FALSE	1	FALSE	ccmFN1_mt	715	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	239	1	714	717	CTA	L	TTA	L	CTA->TTA	L->L	syn	NA	NA	42.86	14	NA	NA	NA	NA	NA	NA
+ccmFN1_mt 779 CT	TRUE	3	TRUE	ccmFN1_mt	779	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	260	2	777	780	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	97.73	44	94.12	17	100	13	100	14	94.87	28100
+ccmFN1_mt 791 CT	TRUE	3	TRUE	ccmFN1_mt	791	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	264	2	789	792	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	100	43	100	14	100	15	100	14	85.88	28404
+ccmFN1_mt 806 CT	TRUE	3	TRUE	ccmFN1_mt	806	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	269	2	804	807	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	100	45	100	16	100	9	100	20	94.6	29580
+ccmFN1_mt 955 CT	TRUE	3	TRUE	ccmFN1_mt	955	CT	Mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1	319	1	954	957	CGC	R	TGC	C	CGC->TGC	R->C	non-syn	93.41	91	100	42	96.67	30	73.68	19	89.7	32037
+ccmFN2_mt 65 CT	TRUE	3	TRUE	ccmFN2_mt	65	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	22	2	63	66	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	89.12	441	87.83	189	88.71	124	91.41	128	64.82	51326
+ccmFN2_mt 93 CT	TRUE	3	TRUE	ccmFN2_mt	93	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	31	3	90	93	AAC	N	AAT	N	AAC->AAT	N->N	syn	24.64	483	23.76	202	24.31	144	26.28	137	20.74	53796
+ccmFN2_mt 176 CT	TRUE	3	TRUE	ccmFN2_mt	176	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	59	2	174	177	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	83.68	288	79.1	134	89.25	93	85.25	61	63.78	36573
+ccmFN2_mt 208 CT	TRUE	3	TRUE	ccmFN2_mt	208	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	70	1	207	210	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	83.7	276	78.36	134	91.3	92	84	50	60.37	36912
+ccmFN2_mt 226 CT	TRUE	3	TRUE	ccmFN2_mt	226	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	76	1	225	228	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	88.97	291	85.62	147	96.7	91	84.91	53	68.27	35934
+ccmFN2_mt 259 CT	TRUE	3	TRUE	ccmFN2_mt	259	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	87	1	258	261	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	90.07	292	85.71	147	96.39	83	91.94	62	72.34	35687
+ccmFN2_mt 270 CT	FALSE	2	FALSE	ccmFN2_mt	270	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	90	3	267	270	GCC	A	GCT	A	GCC->GCT	A->A	syn	NA	NA	10.7	187	10.57	123	NA	NA	NA	NA
+ccmFN2_mt 277 CT	TRUE	3	TRUE	ccmFN2_mt	277	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	93	1	276	279	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	91.64	371	87.43	183	97.22	108	93.75	80	72.02	35839
+ccmFN2_mt 320 CT	TRUE	3	TRUE	ccmFN2_mt	320	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	107	2	318	321	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	84.52	323	73.25	157	95.45	88	94.87	78	60.4	35192
+ccmFN2_mt 344 CT	TRUE	3	TRUE	ccmFN2_mt	344	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	115	2	342	345	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	84.97	346	84.76	164	90.11	91	80.22	91	70.08	34804
+ccmFN2_mt 356 CT	TRUE	3	TRUE	ccmFN2_mt	356	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	119	2	354	357	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	81.11	360	83.85	161	77.98	109	80	90	68.51	34328
+ccmFN2_mt 391 CT	TRUE	3	TRUE	ccmFN2_mt	391	CT	Mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2	131	1	390	393	CCC	P	TCC	S	CCC->TCC	P->S	non-syn	85.97	392	88.89	171	84.87	119	82.35	102	72.13	32969
+clpP_pt 559 CT	TRUE	3	TRUE	clpP_pt	559	CT	Pt	clpP	protein_coding	ATP-dependent Clp protease proteolytic subunit	187	1	558	561	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	91.37	1576	88.3	795	93.24	355	95.54	426	71.96	18812
+cob_mt 118 CT	TRUE	3	TRUE	cob_mt	118	CT	Mt	cob	protein_coding	apocytochrome b	40	1	117	120	CCG	P	TCG	S	CCG->TCG	P->S	non-syn	97.76	1606	96.72	549	98.55	551	98.02	506	79.04	16084
+cob_mt 286 CT	TRUE	3	TRUE	cob_mt	286	CT	Mt	cob	protein_coding	apocytochrome b	96	1	285	288	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	98.79	6274	99.01	2637	98.71	1869	98.52	1768	84.4	17702
+cob_mt 325 CT	TRUE	3	TRUE	cob_mt	325	CT	Mt	cob	protein_coding	apocytochrome b	109	1	324	327	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	98.3	6540	98.32	2744	99.07	1929	97.48	1867	66.88	18182
+cob_mt 381 CT	TRUE	3	FALSE	cob_mt	381	CT	Mt	cob	protein_coding	apocytochrome b	127	3	378	381	TTC	F	TTT	F	TTC->TTT	F->F	syn	14.43	7690	15.56	3104	14.59	2344	12.71	2242	NA	NA
+cob_mt 568 CT	TRUE	3	TRUE	cob_mt	568	CT	Mt	cob	protein_coding	apocytochrome b	190	1	567	570	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	98.5	1402	98.64	662	98.38	370	98.38	370	71.6	17424
+cob_mt 610 CT	TRUE	2	FALSE	cob_mt	610	CT	Mt	cob	protein_coding	apocytochrome b	204	1	609	612	CTG	L	TTG	L	CTG->TTG	L->L	syn	11.22	1497	11.03	689	NA	NA	14.88	383	NA	NA
+cob_mt 853 CT	TRUE	3	TRUE	cob_mt	853	CT	Mt	cob	protein_coding	apocytochrome b	285	1	852	855	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	98.72	1568	98.72	545	98.79	496	98.67	527	78.02	17639
+cob_mt 908 CT	TRUE	3	TRUE	cob_mt	908	CT	Mt	cob	protein_coding	apocytochrome b	303	2	906	909	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	99.67	5178	100	1845	99.33	1630	99.65	1703	85.97	17823
+cob_mt 924 CT	TRUE	3	TRUE	cob_mt	924	CT	Mt	cob	protein_coding	apocytochrome b	308	3	921	924	CTC	L	CTT	L	CTC->CTT	L->L	syn	18.73	5821	17.66	2022	19.56	1876	19.03	1923	17.56	18099
+cob_mt 982 CT	TRUE	3	TRUE	cob_mt	982	CT	Mt	cob	protein_coding	apocytochrome b	328	1	981	984	CAC	H	TAC	Y	CAC->TAC	H->Y	non-syn	99.34	7573	99.7	2673	98.71	2475	99.59	2425	79.78	18196
+cob_mt 1084 CT	TRUE	3	TRUE	cob_mt	1084	CT	Mt	cob	protein_coding	apocytochrome b	362	1	1083	1086	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	99.43	6548	99.25	2139	99.37	2236	99.68	2173	92.09	17095
+cob_mt 1160 CT	TRUE	3	TRUE	cob_mt	1160	CT	Mt	cob	protein_coding	apocytochrome b	387	2	1158	1161	ACG	T	ATG	M	ACG->ATG	T->M	non-syn	30.9	5708	29.83	1750	29.85	2171	33.24	1787	27.19	21932
+cox2_mt 25 CT	TRUE	3	TRUE	cox2_mt	25	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	9	1	24	27	CTC	L	TTT	F	CTC->TTT	L->F	non-syn	59.05	420	56.76	185	69.35	124	51.35	111	58.05	39807
+cox2_mt 27 CT	TRUE	3	TRUE	cox2_mt	27	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	9	3	24	27	CTC	L	TTT	F	CTC->TTT	L->F	non-syn	86.43	420	88.65	185	93.55	124	74.77	111	84.23	40114
+cox2_mt 71 CT	TRUE	3	TRUE	cox2_mt	71	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	24	2	69	72	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	89.74	380	94.29	175	100	106	70.71	99	99.85	41498
+cox2_mt 138 CT	TRUE	3	TRUE	cox2_mt	138	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	46	3	135	138	CTC	L	CTT	L	CTC->CTT	L->L	syn	74.63	410	76.33	169	75.25	101	72.14	140	62.87	28796
+cox2_mt 250 CT	FALSE	1	FALSE	cox2_mt	250	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	84	1	249	252	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	NA	NA	NA	NA	NA	NA	11.18	170	NA	NA
+cox2_mt 253 CT	TRUE	3	TRUE	cox2_mt	253	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	85	1	252	255	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	93.71	620	93.28	268	98.4	188	89.02	164	99.65	30013
+cox2_mt 278 CT	TRUE	3	TRUE	cox2_mt	278	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	93	2	276	279	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	95.81	788	93.5	323	99.17	240	95.56	225	98.78	29553
+cox2_mt 379 CT	TRUE	3	TRUE	cox2_mt	379	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	127	1	378	381	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	98.5	1670	98.73	710	99.6	495	96.99	465	98.96	29428
+cox2_mt 476 CT	TRUE	3	TRUE	cox2_mt	476	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	159	2	474	477	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.31	3045	99.16	1194	99.67	911	99.15	940	99.43	29009
+cox2_mt 495 CT	TRUE	3	FALSE	cox2_mt	495	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	165	3	492	495	GAC	D	GAT	D	GAC->GAT	D->D	syn	11.1	3181	10.1	1248	12.21	942	11.3	991	NA	NA
+cox2_mt 557 CT	TRUE	3	TRUE	cox2_mt	557	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	186	2	555	558	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	99.61	3892	99.8	1525	99.74	1146	99.26	1221	99.96	26821
+cox2_mt 581 CT	TRUE	3	TRUE	cox2_mt	581	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	194	2	579	582	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.51	3900	99.63	1626	99.72	1087	99.16	1187	99.27	25929
+cox2_mt 698 CT	TRUE	3	TRUE	cox2_mt	698	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	233	2	696	699	ACG	T	ATG	M	ACG->ATG	T->M	non-syn	99.88	6734	100	2693	99.9	1960	99.71	2081	99.68	32020
+cox2_mt 721 CT	TRUE	3	TRUE	cox2_mt	721	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	241	1	720	723	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	99.58	6405	99.56	2509	99.37	1904	99.8	1992	99.59	31476
+cox2_mt 742 CT	TRUE	3	TRUE	cox2_mt	742	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	248	1	741	744	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	99.94	6303	99.96	2459	99.89	1881	99.95	1963	99.99	30567
+cox2_mt 750 CT	TRUE	2	TRUE	cox2_mt	750	CT	Mt	cox2	protein_coding	cytochrome c oxidase subunit 2	250	3	747	750	TCC	S	TCT	S	TCC->TCT	S->S	syn	10.94	6254	NA	NA	11.17	1862	14.15	1946	18.3	30388
+cox3_mt 112 CT	TRUE	3	TRUE	cox3_mt	112	CT	Mt	cox3	protein_coding	cytochrome c oxidase subunit 3	38	1	111	114	CCA	P	TCA	S	CCA->TCA	P->S	non-syn	99.41	12619	99.31	4752	99.61	4095	99.34	3772	97.75	21389
+cox3_mt 245 CT	TRUE	3	TRUE	cox3_mt	245	CT	Mt	cox3	protein_coding	cytochrome c oxidase subunit 3	82	2	243	246	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	99.21	23922	99.04	8919	99.2	7743	99.44	7260	98.66	24996
+cox3_mt 257 CT	TRUE	3	TRUE	cox3_mt	257	CT	Mt	cox3	protein_coding	cytochrome c oxidase subunit 3	86	2	255	258	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	97.07	23971	96.79	8898	97.56	7775	96.89	7298	95.59	25027
+cox3_mt 311 CT	TRUE	3	TRUE	cox3_mt	311	CT	Mt	cox3	protein_coding	cytochrome c oxidase subunit 3	104	2	309	312	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	98.51	23221	98.41	8515	98.41	7622	98.74	7084	95.14	24256
+cox3_mt 314 CT	TRUE	3	TRUE	cox3_mt	314	CT	Mt	cox3	protein_coding	cytochrome c oxidase subunit 3	105	2	312	315	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	99.19	23237	99.04	8526	99.32	7625	99.22	7086	98.4	23968
+cox3_mt 413 CT	TRUE	3	TRUE	cox3_mt	413	CT	Mt	cox3	protein_coding	cytochrome c oxidase subunit 3	138	2	411	414	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	95.37	2464	95.24	1051	94.33	706	96.61	707	93.2	25485
+cox3_mt 422 CT	TRUE	3	TRUE	cox3_mt	422	CT	Mt	cox3	protein_coding	cytochrome c oxidase subunit 3	141	2	420	423	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	99.08	2497	98.58	1059	99.86	718	99.03	720	97.11	25664
+cox3_mt 603 CT	FALSE	1	TRUE	cox3_mt	603	CT	Mt	cox3	protein_coding	cytochrome c oxidase subunit 3	201	3	600	603	TTC	F	TTT	F	TTC->TTT	F->F	syn	NA	NA	NA	NA	12.37	1141	NA	NA	12.81	26659
+matK_pt 640 CT	TRUE	3	TRUE	matK_pt	640	CT	Pt	matK	protein_coding	maturase K	214	1	639	642	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	74.53	4138	78.11	1987	69.19	847	72.55	1304	92.56	56693
+matR_mt 166 CT	TRUE	1	TRUE	matR_mt	166	CT	Mt	matR	protein_coding	maturase	56	1	165	168	CAC	H	TAC	Y	CAC->TAC	H->Y	non-syn	10.99	546	14.93	201	NA	NA	NA	NA	12	10387
+matR_mt 254 CT	TRUE	1	FALSE	matR_mt	254	CT	Mt	matR	protein_coding	maturase	85	2	252	255	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	11.92	411	NA	NA	22.41	116	NA	NA	NA	NA
+matR_mt 326 CT	TRUE	3	TRUE	matR_mt	326	CT	Mt	matR	protein_coding	maturase	109	2	324	327	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	89.67	571	89.66	174	89.07	183	90.19	214	64.5	10337
+matR_mt 413 CT	TRUE	3	TRUE	matR_mt	413	CT	Mt	matR	protein_coding	maturase	138	2	411	414	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	91.89	444	93.1	174	90.38	104	91.57	166	78.59	10293
+matR_mt 1360 CT	TRUE	3	TRUE	matR_mt	1360	CT	Mt	matR	protein_coding	maturase	454	1	1359	1362	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	13.07	2570	12.81	874	13.23	809	13.19	887	12.97	11355
+matR_mt 1545 CT	TRUE	3	TRUE	matR_mt	1545	CT	Mt	matR	protein_coding	maturase	515	3	1542	1545	TTC	F	TTT	F	TTC->TTT	F->F	syn	48.34	1202	48.72	392	50.33	459	45.3	351	40.94	9889
+matR_mt 1548 CT	TRUE	3	TRUE	matR_mt	1548	CT	Mt	matR	protein_coding	maturase	516	3	1545	1548	CCC	P	CCT	P	CCC->CCT	P->P	syn	53.95	999	55.49	328	56.76	377	48.64	294	38.54	9999
+matR_mt 1682 CT	TRUE	3	TRUE	matR_mt	1682	CT	Mt	matR	protein_coding	maturase	561	2	1680	1683	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	93.31	882	91.74	327	96.05	304	92.03	251	70.14	10503
+matR_mt 1683 CT	TRUE	3	TRUE	matR_mt	1683	CT	Mt	matR	protein_coding	maturase	561	3	1680	1683	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	76.56	883	78.66	328	78.62	304	71.31	251	40.44	10745
+matR_mt 1703 CT	TRUE	3	TRUE	matR_mt	1703	CT	Mt	matR	protein_coding	maturase	568	2	1701	1704	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	92.24	812	90.16	305	93.66	268	93.31	239	70.22	10332
+matR_mt 1723 CT	TRUE	3	TRUE	matR_mt	1723	CT	Mt	matR	protein_coding	maturase	575	1	1722	1725	CGC	R	TGC	C	CGC->TGC	R->C	non-syn	90.49	757	89.51	286	90.38	260	91.94	211	65.84	10633
+matR_mt 1759 CT	TRUE	3	TRUE	matR_mt	1759	CT	Mt	matR	protein_coding	maturase	587	1	1758	1761	CAC	H	TAC	Y	CAC->TAC	H->Y	non-syn	93.08	1214	90.76	422	94.95	416	93.62	376	73.48	10584
+matR_mt 1847 CT	TRUE	3	TRUE	matR_mt	1847	CT	Mt	matR	protein_coding	maturase	616	2	1845	1848	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	96.8	1531	96.3	514	97.83	507	96.27	510	81.27	10536
+mttB_mt 41 CT	TRUE	3	TRUE	mttB_mt	41	CT	Mt	mttB	protein_coding	transport membrane protein	14	2	39	42	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	92	250	88.57	70	88.37	86	97.87	94	91.07	30921
+mttB_mt 79 CT	TRUE	3	TRUE	mttB_mt	79	CT	Mt	mttB	protein_coding	transport membrane protein	27	1	78	81	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	80	270	79.22	77	85.71	84	76.15	109	77.66	33207
+mttB_mt 90 CT	FALSE	1	TRUE	mttB_mt	90	CT	Mt	mttB	protein_coding	transport membrane protein	30	3	87	90	ATC	I	ATT	I	ATC->ATT	I->I	syn	NA	NA	11.39	79	NA	NA	NA	NA	13.27	33951
+mttB_mt 126 CT	TRUE	1	TRUE	mttB_mt	126	CT	Mt	mttB	protein_coding	transport membrane protein	42	3	123	126	TTC	F	TTT	F	TTC->TTT	F->F	syn	25	68	25.93	27	NA	NA	NA	NA	46.69	22872
+mttB_mt 127 CT	TRUE	3	TRUE	mttB_mt	127	CT	Mt	mttB	protein_coding	transport membrane protein	43	1	126	129	CCG	P	TCG	S	CCG->TCG	P->S	non-syn	77.94	68	81.48	27	70	10	77.42	31	91.41	22964
+mttB_mt 143 CT	TRUE	3	TRUE	mttB_mt	143	CT	Mt	mttB	protein_coding	transport membrane protein	48	2	141	144	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	79.45	73	82.14	28	78.57	14	77.42	31	93.9	23241
+mttB_mt 146 CT	TRUE	3	TRUE	mttB_mt	146	CT	Mt	mttB	protein_coding	transport membrane protein	49	2	144	147	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	79.45	73	82.14	28	78.57	14	77.42	31	92.92	23490
+mttB_mt 155 CT	TRUE	3	TRUE	mttB_mt	155	CT	Mt	mttB	protein_coding	transport membrane protein	52	2	153	156	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	82.86	70	92	25	78.57	14	77.42	31	91.14	24542
+mttB_mt 157 CT	FALSE	0	TRUE	mttB_mt	157	CT	Mt	mttB	protein_coding	transport membrane protein	53	1	156	159	CCC	P	TCT	S	CCC->TCT	P->S	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	10.39	25065
+mttB_mt 159 CT	FALSE	0	TRUE	mttB_mt	159	CT	Mt	mttB	protein_coding	transport membrane protein	53	3	156	159	CCC	P	TCT	S	CCC->TCT	P->S	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	11.65	25231
+mttB_mt 343 CT	TRUE	3	TRUE	mttB_mt	343	CT	Mt	mttB	protein_coding	transport membrane protein	115	1	342	345	CTC	L	TTC	F	CTC->TTC	L->F	non-syn	24.44	487	29.95	187	24.57	175	16	125	92.28	25057
+mttB_mt 346 CT	TRUE	3	TRUE	mttB_mt	346	CT	Mt	mttB	protein_coding	transport membrane protein	116	1	345	348	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	24.25	499	29.95	187	22.29	175	18.98	137	88.68	25856
+mttB_mt 359 CT	TRUE	2	TRUE	mttB_mt	359	CT	Mt	mttB	protein_coding	transport membrane protein	120	2	357	360	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	15.29	569	20.09	219	14.07	199	NA	NA	72.02	25907
+mttB_mt 361 CT	TRUE	3	TRUE	mttB_mt	361	CT	Mt	mttB	protein_coding	transport membrane protein	121	1	360	363	CGC	R	TGC	C	CGC->TGC	R->C	non-syn	26.89	569	32.88	219	25.13	199	20.53	151	95.5	26050
+mttB_mt 369 CT	TRUE	1	TRUE	mttB_mt	369	CT	Mt	mttB	protein_coding	transport membrane protein	123	3	366	369	TTC	F	TTT	F	TTC->TTT	F->F	syn	11.74	605	NA	NA	15.67	217	NA	NA	26.21	27055
+mttB_mt 388 CT	TRUE	3	TRUE	mttB_mt	388	CT	Mt	mttB	protein_coding	transport membrane protein	130	1	387	390	CCT	P	TTT	F	CCT->TTT	P->F	non-syn	24.17	873	35.44	316	19.69	320	15.19	237	86	24481
+mttB_mt 389 CT	TRUE	3	TRUE	mttB_mt	389	CT	Mt	mttB	protein_coding	transport membrane protein	130	2	387	390	CCT	P	TTT	F	CCT->TTT	P->F	non-syn	24.17	873	36.71	316	18.44	320	15.19	237	88.55	24946
+mttB_mt 391 CT	TRUE	3	TRUE	mttB_mt	391	CT	Mt	mttB	protein_coding	transport membrane protein	131	1	390	393	CCC	P	TCC	S	CCC->TCC	P->S	non-syn	23.87	884	35.42	319	19.69	320	14.29	245	88.74	25130
+mttB_mt 394 CT	TRUE	3	TRUE	mttB_mt	394	CT	Mt	mttB	protein_coding	transport membrane protein	132	1	393	396	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	22.84	902	34.26	324	18.13	331	14.17	247	87.49	24858
+mttB_mt 422 CT	TRUE	3	TRUE	mttB_mt	422	CT	Mt	mttB	protein_coding	transport membrane protein	141	2	420	423	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	28.25	793	37.23	282	24.47	282	21.83	229	82.28	25960
+mttB_mt 456 CT	TRUE	3	TRUE	mttB_mt	456	CT	Mt	mttB	protein_coding	transport membrane protein	152	3	453	456	CTC	L	CTT	L	CTC->CTT	L->L	syn	19.98	811	23.73	295	20.44	274	14.88	242	50.47	26547
+mttB_mt 487 CT	TRUE	3	TRUE	mttB_mt	487	CT	Mt	mttB	protein_coding	transport membrane protein	163	1	486	489	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	25.76	695	37.39	230	16.67	234	23.38	231	93.77	25847
+mttB_mt 512 CT	TRUE	3	TRUE	mttB_mt	512	CT	Mt	mttB	protein_coding	transport membrane protein	171	2	510	513	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	31	758	43.48	230	23.31	266	27.86	262	89.04	25368
+mttB_mt 520 CT	TRUE	3	TRUE	mttB_mt	520	CT	Mt	mttB	protein_coding	transport membrane protein	174	1	519	522	CCA	P	TCA	S	CCA->TCA	P->S	non-syn	33.51	758	47.19	231	28.15	270	26.85	257	89.5	25914
+mttB_mt 534 CT	TRUE	2	TRUE	mttB_mt	534	CT	Mt	mttB	protein_coding	transport membrane protein	178	3	531	534	TCC	S	TCT	S	TCC->TCT	S->S	syn	10.24	635	12.32	203	NA	NA	10.38	212	23.65	26233
+mttB_mt 563 CT	TRUE	3	TRUE	mttB_mt	563	CT	Mt	mttB	protein_coding	transport membrane protein	188	2	561	564	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	49.53	741	60.58	241	43.57	241	44.79	259	75.41	25485
+mttB_mt 568 CT	TRUE	3	TRUE	mttB_mt	568	CT	Mt	mttB	protein_coding	transport membrane protein	190	1	567	570	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	17.24	783	20.16	243	11.49	261	20.07	279	37.48	25188
+mttB_mt 569 CT	TRUE	3	TRUE	mttB_mt	569	CT	Mt	mttB	protein_coding	transport membrane protein	190	2	567	570	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	59.62	780	70.49	244	51.75	257	57.35	279	91.57	25194
+mttB_mt 625 CT	TRUE	3	TRUE	mttB_mt	625	CT	Mt	mttB	protein_coding	transport membrane protein	209	1	624	627	CCG	P	TCG	S	CCG->TCG	P->S	non-syn	75.17	1168	80.56	432	70.94	382	73.16	354	90.74	23215
+mttB_mt 631 CT	TRUE	3	TRUE	mttB_mt	631	CT	Mt	mttB	protein_coding	transport membrane protein	211	1	630	633	CTC	L	TTC	F	CTC->TTC	L->F	non-syn	71.94	1219	74.55	440	66.83	410	74.53	369	88.22	23696
+mttB_mt 647 CT	TRUE	3	TRUE	mttB_mt	647	CT	Mt	mttB	protein_coding	transport membrane protein	216	2	645	648	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	76.21	1202	79.31	435	70.56	394	78.55	373	89.36	22482
+mttB_mt 648 CT	TRUE	3	TRUE	mttB_mt	648	CT	Mt	mttB	protein_coding	transport membrane protein	216	3	645	648	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	49.71	1203	50.92	436	48.22	394	49.87	373	54.6	22152
+mttB_mt 675 CT	TRUE	3	TRUE	mttB_mt	675	CT	Mt	mttB	protein_coding	transport membrane protein	225	3	672	675	ATC	I	ATT	I	ATC->ATT	I->I	syn	76.39	1152	81.32	423	71.54	376	75.64	353	85.32	21186
+mttB_mt 682 CT	TRUE	3	TRUE	mttB_mt	682	CT	Mt	mttB	protein_coding	transport membrane protein	228	1	681	684	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	83.22	1168	86.9	435	76.76	383	85.71	350	91.99	19071
+mttB_mt 687 CT	TRUE	3	TRUE	mttB_mt	687	CT	Mt	mttB	protein_coding	transport membrane protein	229	3	684	687	TTC	F	TTT	F	TTC->TTT	F->F	syn	56.14	1124	55.58	430	57.1	359	55.82	335	47.9	27287
+mttB_mt 728 CT	TRUE	3	TRUE	mttB_mt	728	CT	Mt	mttB	protein_coding	transport membrane protein	243	2	726	729	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	82.59	1074	86.04	394	78.47	339	82.7	341	86.73	27727
+nad1_mt 2 CT	TRUE	3	TRUE	nad1_mt	2	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	1	2	0	3	ACG	T	ATG	M	ACG->ATG	T->M	non-syn	76.84	177	70	90	100	39	70.83	48	97.81	28392
+nad1_mt 40 CT	TRUE	3	TRUE	nad1_mt	40	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	14	1	39	42	CTA	L	TTA	L	CTA->TTA	L->L	syn	25.84	209	26.04	96	28.85	52	22.95	61	13.07	29830
+nad1_mt 49 CT	TRUE	1	FALSE	nad1_mt	49	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	17	1	48	51	CTA	L	TTA	L	CTA->TTA	L->L	syn	13.79	203	NA	NA	NA	NA	33.33	60	NA	NA
+nad1_mt 167 CT	TRUE	3	TRUE	nad1_mt	167	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	56	2	165	168	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	99.32	442	98.42	190	100	95	100	157	99.93	22784
+nad1_mt 265 CT	TRUE	3	TRUE	nad1_mt	265	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	89	1	264	267	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	98.85	522	97.99	249	99.21	127	100	146	99.97	24764
+nad1_mt 307 CT	TRUE	3	TRUE	nad1_mt	307	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	103	1	306	309	CCG	P	TTG	L	CCG->TTG	P->L	non-syn	99.47	379	99.51	206	98.65	74	100	99	99.99	23363
+nad1_mt 308 CT	TRUE	3	TRUE	nad1_mt	308	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	103	2	306	309	CCG	P	TTG	L	CCG->TTG	P->L	non-syn	99.47	379	99.51	206	98.65	74	100	99	99.31	23392
+nad1_mt 376 CT	TRUE	3	TRUE	nad1_mt	376	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	126	1	375	378	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	98.29	467	97.27	220	98.1	105	100	142	99.97	22773
+nad1_mt 490 CT	TRUE	3	TRUE	nad1_mt	490	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	164	1	489	492	CCC	P	TCT	S	CCC->TCT	P->S	non-syn	100	858	100	396	100	210	100	252	99.97	21400
+nad1_mt 492 CT	TRUE	3	TRUE	nad1_mt	492	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	164	3	489	492	CCC	P	TCT	S	CCC->TCT	P->S	non-syn	100	858	100	396	100	210	100	252	99.87	21201
+nad1_mt 493 CT	TRUE	3	TRUE	nad1_mt	493	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	165	1	492	495	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	100	858	100	396	100	210	100	252	99.89	21115
+nad1_mt 500 CT	TRUE	3	TRUE	nad1_mt	500	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	167	2	498	501	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	92.61	759	90.75	346	98.39	187	90.71	226	92.83	22870
+nad1_mt 536 CT	TRUE	3	TRUE	nad1_mt	536	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	179	2	534	537	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	98.71	854	99.49	390	95.45	198	100	266	99.73	23227
+nad1_mt 571 CT	TRUE	3	TRUE	nad1_mt	571	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	191	1	570	573	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	99.16	952	98.87	443	100	205	99.01	304	98.84	22409
+nad1_mt 580 CT	TRUE	3	TRUE	nad1_mt	580	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	194	1	579	582	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	99.59	976	99.33	450	99.53	212	100	314	99.96	22440
+nad1_mt 635 CT	TRUE	3	TRUE	nad1_mt	635	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	212	2	633	636	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.19	774	97.22	360	100	148	98.5	266	99.6	23542
+nad1_mt 674 CT	TRUE	3	TRUE	nad1_mt	674	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	225	2	672	675	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	99.9	1005	100	451	99.55	223	100	331	99.94	22574
+nad1_mt 725 CT	TRUE	3	TRUE	nad1_mt	725	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	242	2	723	726	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	99.27	827	99.73	365	100	186	98.19	276	99.95	22065
+nad1_mt 743 CT	TRUE	3	TRUE	nad1_mt	743	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	248	2	741	744	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	97.77	672	96.7	303	100	154	97.67	215	99.42	21405
+nad1_mt 755 CT	TRUE	3	TRUE	nad1_mt	755	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	252	2	753	756	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	96.84	727	96.26	321	97.58	165	97.1	241	99.99	21472
+nad1_mt 823 CT	TRUE	3	TRUE	nad1_mt	823	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	275	1	822	825	CTC	L	TTC	F	CTC->TTC	L->F	non-syn	90.51	453	92.99	214	94.79	96	83.92	143	99.46	19795
+nad1_mt 898 CT	TRUE	3	TRUE	nad1_mt	898	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	300	1	897	900	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	90.72	431	94.26	209	85.71	70	88.16	152	99.94	25955
+nad1_mt 928 CT	TRUE	3	TRUE	nad1_mt	928	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	310	1	927	930	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	90.76	433	93.75	192	87.95	83	88.61	158	99.96	24499
+nad1_mt 937 CT	TRUE	3	TRUE	nad1_mt	937	CT	Mt	nad1	protein_coding	NADH dehydrogenase subunit 1	313	1	936	939	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	89.91	436	91.75	194	87.95	83	88.68	159	99.63	24407
+nad2_mt 26 CT	TRUE	3	TRUE	nad2_mt	26	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	9	2	24	27	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	97.67	43	93.75	16	100	16	100	11	99.97	17055
+nad2_mt 56 CT	TRUE	3	TRUE	nad2_mt	56	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	19	2	54	57	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	98.31	59	95.24	21	100	16	100	22	99.88	17573
+nad2_mt 57 CT	TRUE	3	TRUE	nad2_mt	57	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	19	3	54	57	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	98.31	59	95.24	21	100	16	100	22	34.15	18025
+nad2_mt 308 CT	TRUE	3	TRUE	nad2_mt	308	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	103	2	306	309	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	89.89	188	95.77	71	100	32	81.18	85	99.99	13901
+nad2_mt 311 CT	TRUE	3	TRUE	nad2_mt	311	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	104	2	309	312	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	88.77	187	95.65	69	96.88	32	80.23	86	99.99	14042
+nad2_mt 356 CT	TRUE	3	TRUE	nad2_mt	356	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	119	2	354	357	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	87.14	140	93.75	64	100	29	70.21	47	99.96	14217
+nad2_mt 361 CT	TRUE	3	TRUE	nad2_mt	361	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	121	1	360	363	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	84.87	119	92.98	57	100	22	65	40	99.98	14358
+nad2_mt 367 CT	TRUE	3	TRUE	nad2_mt	367	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	123	1	366	369	CGC	R	TGC	C	CGC->TGC	R->C	non-syn	79.17	120	89.83	59	95.83	24	51.35	37	99.98	14136
+nad2_mt 394 CT	TRUE	3	TRUE	nad2_mt	394	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	132	1	393	396	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	80.99	121	93.88	49	90.91	33	56.41	39	99.95	14001
+nad2_mt 428 CT	TRUE	3	TRUE	nad2_mt	428	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	143	2	426	429	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	86.21	145	93.75	48	88.89	36	78.69	61	99.98	14408
+nad2_mt 453 CT	FALSE	1	FALSE	nad2_mt	453	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	151	3	450	453	ATC	I	ATT	I	ATC->ATT	I->I	syn	NA	NA	NA	NA	12.73	55	NA	NA	NA	NA
+nad2_mt 497 CT	TRUE	3	TRUE	nad2_mt	497	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	166	2	495	498	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	94.88	215	96.39	83	94.44	54	93.59	78	99.97	14621
+nad2_mt 525 CT	TRUE	3	TRUE	nad2_mt	525	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	175	3	522	525	TCC	S	TCT	S	TCC->TCT	S->S	syn	34.09	264	21.62	111	39.39	66	45.98	87	30.57	14931
+nad2_mt 609 CT	TRUE	2	FALSE	nad2_mt	609	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	203	3	606	609	ACC	T	ACT	T	ACC->ACT	T->T	syn	17.53	154	16.28	86	52.38	21	NA	NA	NA	NA
+nad2_mt 662 CT	TRUE	3	TRUE	nad2_mt	662	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	221	2	660	663	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	100	167	100	101	100	13	100	53	99.96	14546
+nad2_mt 788 CT	TRUE	3	TRUE	nad2_mt	788	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	263	2	786	789	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	99.6	252	100	133	100	37	98.78	82	99.95	15270
+nad2_mt 809 CT	TRUE	3	TRUE	nad2_mt	809	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	270	2	807	810	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	99.59	247	100	133	100	37	98.7	77	99.97	14752
+nad2_mt 855 CT	FALSE	0	TRUE	nad2_mt	855	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	285	3	852	855	TTC	F	TTT	F	TTC->TTT	F->F	syn	NA	NA	NA	NA	NA	NA	NA	NA	29.81	15643
+nad2_mt 920 CT	TRUE	3	TRUE	nad2_mt	920	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	307	2	918	921	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	98.26	288	98.56	139	100	48	97.03	101	99.95	15022
+nad2_mt 928 CT	TRUE	3	TRUE	nad2_mt	928	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	310	1	927	930	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	97.08	308	96.62	148	100	60	96	100	99.97	15543
+nad2_mt 958 CT	TRUE	3	TRUE	nad2_mt	958	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	320	1	957	960	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	99.56	454	100	215	100	98	98.58	141	99.97	15345
+nad2_mt 962 CT	TRUE	3	TRUE	nad2_mt	962	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	321	2	960	963	ACT	T	ATT	I	ACT->ATT	T->I	non-syn	98.89	450	100	211	100	98	96.45	141	99.95	15423
+nad2_mt 1058 CT	TRUE	3	TRUE	nad2_mt	1058	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	353	2	1056	1059	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.11	560	98.59	283	100	113	99.39	164	99.83	15657
+nad2_mt 1127 CT	TRUE	3	TRUE	nad2_mt	1127	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	376	2	1125	1128	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	99.46	551	99.58	240	98.73	157	100	154	99.98	15106
+nad2_mt 1200 CT	FALSE	0	TRUE	nad2_mt	1200	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	400	3	1197	1200	TTC	F	TTT	F	TTC->TTT	F->F	syn	NA	NA	NA	NA	NA	NA	NA	NA	46.36	14555
+nad2_mt 1246 CT	TRUE	3	TRUE	nad2_mt	1246	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	416	1	1245	1248	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	97.98	791	98.54	343	97.39	230	97.71	218	99.15	13164
+nad2_mt 1247 CT	TRUE	3	TRUE	nad2_mt	1247	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	416	2	1245	1248	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	98.73	786	99.13	343	99.57	230	97.18	213	99.93	13205
+nad2_mt 1276 CT	TRUE	3	TRUE	nad2_mt	1276	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	426	1	1275	1278	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	100	774	100	334	100	233	100	207	99.94	12508
+nad2_mt 1400 CT	TRUE	3	TRUE	nad2_mt	1400	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	467	2	1398	1401	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.25	265	98.11	106	100	81	100	78	99.94	12459
+nad2_mt 1403 CT	TRUE	3	TRUE	nad2_mt	1403	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	468	2	1401	1404	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	92.78	263	85.58	104	100	81	94.87	78	99.22	12420
+nad2_mt 1457 CT	TRUE	3	TRUE	nad2_mt	1457	CT	Mt	nad2	protein_coding	NADH dehydrogenase subunit 2	486	2	1455	1458	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.64	220	97.65	85	98.7	77	100	58	99.94	10787
+nad3_mt 5 CT	TRUE	3	TRUE	nad3_mt	5	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	2	2	3	6	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	85.59	1069	85.63	334	85.79	359	85.37	376	77.59	61374
+nad3_mt 23 CT	TRUE	3	TRUE	nad3_mt	23	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	8	2	21	24	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	86.59	1179	86.94	361	84.07	408	88.78	410	83.08	61942
+nad3_mt 61 CT	TRUE	3	TRUE	nad3_mt	61	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	21	1	60	63	CTA	L	TTA	L	CTA->TTA	L->L	syn	80.89	1303	79.48	385	79.3	454	83.62	464	73.19	69511
+nad3_mt 80 CT	TRUE	3	TRUE	nad3_mt	80	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	27	2	78	81	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	89.38	2109	89.89	663	86.52	690	91.53	756	92.45	60192
+nad3_mt 146 CT	TRUE	3	TRUE	nad3_mt	146	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	49	2	144	147	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	87.87	3991	87.59	1297	87.65	1328	88.36	1366	91.74	43326
+nad3_mt 208 CT	TRUE	3	TRUE	nad3_mt	208	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	70	1	207	210	CCT	P	TTT	F	CCT->TTT	P->F	non-syn	89.21	6096	88.41	2088	89.16	1965	90.06	2043	90.44	42341
+nad3_mt 209 CT	TRUE	3	TRUE	nad3_mt	209	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	70	2	207	210	CCT	P	TTT	F	CCT->TTT	P->F	non-syn	89.56	6100	88.68	2093	90.11	1962	89.93	2045	90.57	42871
+nad3_mt 247 CT	TRUE	3	TRUE	nad3_mt	247	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	83	1	246	249	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	93.32	9055	92.96	3040	92.5	2945	94.46	3070	93.96	65031
+nad3_mt 251 CT	TRUE	3	TRUE	nad3_mt	251	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	84	2	249	252	CCC	P	CTC	L	CCC->CTC	P->L	non-syn	91.88	8957	91.66	3044	90.96	2886	93	3027	93.03	64128
+nad3_mt 344 CT	TRUE	3	TRUE	nad3_mt	344	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	115	2	342	345	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	93.96	10152	94.37	3430	92.95	3305	94.53	3417	93.66	54755
+nad3_mt 349 CT	TRUE	3	TRUE	nad3_mt	349	CT	Mt	nad3	protein_coding	NADH dehydrogenase subunit 3	117	1	348	351	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	91.36	9524	91.65	3234	90.2	3111	92.2	3179	93.08	54587
+nad4_mt 29 CT	TRUE	3	TRUE	nad4_mt	29	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	10	2	27	30	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	95.25	379	95.56	135	94.07	118	96.03	126	99.99	21669
+nad4_mt 74 CT	TRUE	3	TRUE	nad4_mt	74	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	25	2	72	75	ACT	T	ATT	I	ACT->ATT	T->I	non-syn	96.2	395	97.49	199	99.04	104	90.22	92	99.98	22677
+nad4_mt 84 CT	TRUE	3	TRUE	nad4_mt	84	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	28	3	81	84	TTC	F	TTT	F	TTC->TTT	F->F	syn	32.41	395	30.15	199	39.42	104	29.35	92	21.91	23229
+nad4_mt 107 CT	TRUE	3	TRUE	nad4_mt	107	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	36	2	105	108	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	97.61	418	98.65	222	97.94	97	94.95	99	99.98	24166
+nad4_mt 124 CT	TRUE	3	TRUE	nad4_mt	124	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	42	1	123	126	CTG	L	TTG	L	CTG->TTG	L->L	syn	96.56	640	96.27	295	98.73	158	95.19	187	99.89	23918
+nad4_mt 158 CT	TRUE	3	TRUE	nad4_mt	158	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	53	2	156	159	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	98.32	655	99.01	303	97.93	145	97.58	207	99.96	15924
+nad4_mt 164 CT	TRUE	3	TRUE	nad4_mt	164	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	55	2	162	165	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	84.59	610	90.77	271	78.83	137	80.2	202	98.14	15570
+nad4_mt 166 CT	TRUE	3	TRUE	nad4_mt	166	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	56	1	165	168	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	91.76	607	92.62	271	91.24	137	90.95	199	99.57	15509
+nad4_mt 197 CT	TRUE	3	TRUE	nad4_mt	197	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	66	2	195	198	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	98.19	829	98.34	362	98.68	228	97.49	239	99.97	16465
+nad4_mt 317 CT	TRUE	3	TRUE	nad4_mt	317	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	106	2	315	318	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.26	1218	99.17	603	100	351	98.48	264	99.96	17036
+nad4_mt 362 CT	TRUE	3	TRUE	nad4_mt	362	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	121	2	360	363	ACA	T	ATA	I	ACA->ATA	T->I	non-syn	99.79	1430	99.57	700	100	402	100	328	99.94	17072
+nad4_mt 376 CT	TRUE	3	TRUE	nad4_mt	376	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	126	1	375	378	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	99.64	1399	99.71	691	99.73	375	99.4	333	99.97	17308
+nad4_mt 403 CT	TRUE	3	TRUE	nad4_mt	403	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	135	1	402	405	CGC	R	TGC	C	CGC->TGC	R->C	non-syn	99.78	1336	99.69	644	99.72	360	100	332	99.96	17044
+nad4_mt 436 CT	TRUE	3	TRUE	nad4_mt	436	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	146	1	435	438	CCC	P	TTC	F	CCC->TTC	P->F	non-syn	99.69	1272	99.36	623	100	326	100	323	99.38	15699
+nad4_mt 437 CT	TRUE	3	TRUE	nad4_mt	437	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	146	2	435	438	CCC	P	TTC	F	CCC->TTC	P->F	non-syn	99.13	1270	99.36	621	99.08	326	98.76	323	100	15808
+nad4_mt 449 CT	TRUE	3	TRUE	nad4_mt	449	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	150	2	447	450	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	99.92	1256	99.84	640	100	298	100	318	99.94	16899
+nad4_mt 608 CT	TRUE	3	TRUE	nad4_mt	608	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	203	2	606	609	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	97.75	1200	98.41	377	98.56	486	95.85	337	98.63	16205
+nad4_mt 636 CT	FALSE	0	TRUE	nad4_mt	636	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	212	3	633	636	CGC	R	CGT	R	CGC->CGT	R->R	syn	NA	NA	NA	NA	NA	NA	NA	NA	25.5	16863
+nad4_mt 659 CT	TRUE	3	TRUE	nad4_mt	659	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	220	2	657	660	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	98.1	579	97.44	234	97.45	157	99.47	188	99.99	16058
+nad4_mt 767 CT	TRUE	3	TRUE	nad4_mt	767	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	256	2	765	768	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	97.24	1342	95.45	483	98.25	401	98.25	458	99.83	16297
+nad4_mt 784 CT	TRUE	3	TRUE	nad4_mt	784	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	262	1	783	786	CAC	H	TAC	Y	CAC->TAC	H->Y	non-syn	96.6	1381	96.14	492	97.9	428	95.88	461	98.65	16802
+nad4_mt 836 CT	TRUE	3	TRUE	nad4_mt	836	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	279	2	834	837	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	89.52	1568	91.34	556	87.06	488	89.89	524	89.23	16547
+nad4_mt 896 CT	TRUE	3	TRUE	nad4_mt	896	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	299	2	894	897	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.41	694	98.13	321	100	175	97.47	198	99.94	16564
+nad4_mt 977 CT	TRUE	3	TRUE	nad4_mt	977	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	326	2	975	978	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	97.6	1250	97.62	588	96.27	322	98.82	340	99.93	16542
+nad4_mt 1010 CT	TRUE	3	TRUE	nad4_mt	1010	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	337	2	1008	1011	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	99.22	1660	99.75	789	99.76	423	97.77	448	91.68	16410
+nad4_mt 1033 CT	TRUE	3	TRUE	nad4_mt	1033	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	345	1	1032	1035	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	99.16	1794	99.76	822	99.17	482	98.16	490	92.1	16331
+nad4_mt 1101 CT	TRUE	3	TRUE	nad4_mt	1101	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	367	3	1098	1101	TAC	Y	TAT	Y	TAC->TAT	Y->Y	syn	73.68	1330	73.09	654	73.71	350	74.85	326	98.08	16881
+nad4_mt 1129 CT	TRUE	3	TRUE	nad4_mt	1129	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	377	1	1128	1131	CTC	L	TTT	F	CTC->TTT	L->F	non-syn	98.49	1262	99.51	616	99.07	322	95.99	324	99.97	16437
+nad4_mt 1131 CT	TRUE	2	TRUE	nad4_mt	1131	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	377	3	1128	1131	CTC	L	TTT	F	CTC->TTT	L->F	non-syn	10.95	1306	12.38	638	12.95	332	NA	NA	32.38	16879
+nad4_mt 1148 CT	TRUE	3	TRUE	nad4_mt	1148	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	383	2	1146	1149	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	97.24	1177	98.78	590	96.72	290	94.6	297	98.48	14974
+nad4_mt 1172 CT	TRUE	3	TRUE	nad4_mt	1172	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	391	2	1170	1173	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	97.98	1235	98.52	607	97.87	329	96.99	299	99.88	15813
+nad4_mt 1194 CT	FALSE	0	TRUE	nad4_mt	1194	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	398	3	1191	1194	ATC	I	ATT	I	ATC->ATT	I->I	syn	NA	NA	NA	NA	NA	NA	NA	NA	12.34	16730
+nad4_mt 1206 CT	TRUE	3	TRUE	nad4_mt	1206	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	402	3	1203	1206	CTC	L	CTT	L	CTC->CTT	L->L	syn	27.69	1358	25.66	643	30.37	349	28.69	366	15.36	15653
+nad4_mt 1355 CT	TRUE	3	TRUE	nad4_mt	1355	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	452	2	1353	1356	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.6	1938	98.66	894	98.3	528	98.83	516	94.02	19899
+nad4_mt 1373 CT	TRUE	3	TRUE	nad4_mt	1373	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	458	2	1371	1374	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	98.48	2101	98.82	929	97.85	605	98.59	567	98.95	18955
+nad4_mt 1401 CT	TRUE	3	TRUE	nad4_mt	1401	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	467	3	1398	1401	GTC	V	GTT	V	GTC->GTT	V->V	syn	22.48	1539	23	726	23.34	407	20.69	406	14.64	17533
+nad4_mt 1405 CT	TRUE	3	TRUE	nad4_mt	1405	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	469	1	1404	1407	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	99.21	1526	99.72	713	99.75	407	97.77	406	99.52	17453
+nad4_mt 1417 CT	TRUE	3	TRUE	nad4_mt	1417	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	473	1	1416	1419	CAC	H	TAC	Y	CAC->TAC	H->Y	non-syn	96.13	1423	95.84	649	96.96	395	95.78	379	96.56	16848
+nad4_mt 1433 CT	TRUE	3	TRUE	nad4_mt	1433	CT	Mt	nad4	protein_coding	NADH dehydrogenase subunit 4	478	2	1431	1434	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	99.44	1419	99.38	643	99.25	402	99.73	374	99.93	16361
+nad4L_mt 21 CT	TRUE	3	TRUE	nad4L_mt	21	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	7	3	18	21	TTC	F	TTT	F	TTC->TTT	F->F	syn	20.74	299	21.12	161	20.31	64	20.27	74	21.96	96156
+nad4L_mt 41 CT	TRUE	3	TRUE	nad4L_mt	41	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	14	2	39	42	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	97.19	321	100	168	100	64	89.89	89	95.65	93481
+nad4L_mt 55 CT	TRUE	3	TRUE	nad4L_mt	55	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	19	1	54	57	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	98.66	298	100	151	100	64	95.18	83	95.24	93520
+nad4L_mt 86 CT	TRUE	3	TRUE	nad4L_mt	86	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	29	2	84	87	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	99.21	381	100	181	100	102	96.94	98	95.63	91284
+nad4L_mt 95 CT	TRUE	3	TRUE	nad4L_mt	95	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	32	2	93	96	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	100	374	100	177	100	102	100	95	96.44	96652
+nad4L_mt 100 CT	TRUE	3	TRUE	nad4L_mt	100	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	34	1	99	102	CCA	P	TCA	S	CCA->TCA	P->S	non-syn	94.96	377	96.11	180	89.22	102	98.95	95	92.76	95648
+nad4L_mt 110 CT	TRUE	3	TRUE	nad4L_mt	110	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	37	2	108	111	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	94.35	372	97.19	178	83.84	99	100	95	91.46	96136
+nad4L_mt 131 CT	TRUE	3	TRUE	nad4L_mt	131	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	44	2	129	132	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	95.67	462	98.79	248	88.29	111	96.12	103	90.84	7853
+nad4L_mt 158 CT	TRUE	3	TRUE	nad4L_mt	158	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	53	2	156	159	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	99.6	500	99.62	261	100	119	99.17	120	97.45	10183
+nad4L_mt 188 CT	TRUE	3	TRUE	nad4L_mt	188	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	63	2	186	189	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	97.74	443	99.58	237	100	107	90.91	99	91.55	86767
+nad4L_mt 197 CT	TRUE	3	TRUE	nad4L_mt	197	CT	Mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L	66	2	195	198	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	95.84	409	97.81	228	97.96	98	87.95	83	90.28	87261
+nad5_mt 155 CT	TRUE	3	TRUE	nad5_mt	155	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	52	2	153	156	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	100	230	100	78	100	35	100	117	99.95	11191
+nad5_mt 242 CT	TRUE	3	TRUE	nad5_mt	242	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	81	2	240	243	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	88.4	388	93.71	159	95.06	81	79.05	148	99.86	11079
+nad5_mt 272 CT	TRUE	3	TRUE	nad5_mt	272	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	91	2	270	273	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	92.03	602	95.51	245	96.6	147	84.76	210	99.98	11094
+nad5_mt 288 CT	FALSE	0	TRUE	nad5_mt	288	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	96	3	285	288	GTC	V	GTT	V	GTC->GTT	V->V	syn	NA	NA	NA	NA	NA	NA	NA	NA	17.17	11419
+nad5_mt 358 CT	TRUE	3	TRUE	nad5_mt	358	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	120	1	357	360	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	91.73	810	92.02	326	98.43	191	87.03	293	99.97	11213
+nad5_mt 374 CT	TRUE	3	TRUE	nad5_mt	374	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	125	2	372	375	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	90.98	843	89.91	337	97.45	196	88.06	310	99.96	11199
+nad5_mt 398 CT	TRUE	3	TRUE	nad5_mt	398	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	133	2	396	399	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	94.87	1014	92.17	434	98.63	291	95.16	289	99.94	10640
+nad5_mt 494 CT	TRUE	3	TRUE	nad5_mt	494	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	165	2	492	495	ACA	T	ATA	I	ACA->ATA	T->I	non-syn	96.17	3418	96.03	1412	96.7	939	95.88	1067	99.98	11446
+nad5_mt 548 CT	TRUE	3	TRUE	nad5_mt	548	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	183	2	546	549	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	94.96	2142	94.98	936	96.55	550	93.6	656	99.92	10788
+nad5_mt 553 CT	TRUE	3	TRUE	nad5_mt	553	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	185	1	552	555	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	93.86	1840	93.28	803	95.4	500	93.3	537	99.98	10781
+nad5_mt 598 CT	TRUE	3	TRUE	nad5_mt	598	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	200	1	597	600	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	98.18	3689	99.02	1529	97.64	1018	97.55	1142	99.93	10866
+nad5_mt 608 CT	TRUE	3	TRUE	nad5_mt	608	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	203	2	606	609	GCC	A	GTT	V	GCC->GTT	A->V	non-syn	96.92	3665	96.61	1533	96.71	1004	97.52	1128	99.95	10424
+nad5_mt 609 CT	TRUE	3	TRUE	nad5_mt	609	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	203	3	606	609	GCC	A	GTT	V	GCC->GTT	A->V	non-syn	81.49	3668	79.23	1536	82.17	1004	83.95	1128	82.84	10846
+nad5_mt 629 CT	TRUE	3	TRUE	nad5_mt	629	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	210	2	627	630	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	97	3636	96.74	1509	96.52	1008	97.76	1119	99.99	10685
+nad5_mt 676 CT	TRUE	3	TRUE	nad5_mt	676	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	226	1	675	678	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	97.86	3364	98.27	1389	97.38	954	97.75	1021	99.93	10538
+nad5_mt 713 CT	TRUE	3	TRUE	nad5_mt	713	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	238	2	711	714	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	93.8	710	94.46	325	92.89	197	93.62	188	100	10729
+nad5_mt 725 CT	TRUE	3	TRUE	nad5_mt	725	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	242	2	723	726	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	94.38	800	94.62	316	93.18	220	95.08	264	99.99	10785
+nad5_mt 764 CT	TRUE	3	TRUE	nad5_mt	764	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	255	2	762	765	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	94.28	804	92.53	308	91.87	209	97.91	287	99.95	10771
+nad5_mt 801 CT	TRUE	3	TRUE	nad5_mt	801	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	267	3	798	801	TTC	F	TTT	F	TTC->TTT	F->F	syn	35.77	1466	31.67	481	40.36	446	35.62	539	36.05	11074
+nad5_mt 835 CT	TRUE	3	TRUE	nad5_mt	835	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	279	1	834	837	CCA	P	TCA	S	CCA->TCA	P->S	non-syn	96.13	1473	92.63	502	97.83	415	98.02	556	99.98	11105
+nad5_mt 863 CT	TRUE	3	TRUE	nad5_mt	863	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	288	2	861	864	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	97.11	1595	94.77	574	98.31	475	98.53	546	99.9	10488
+nad5_mt 875 CT	TRUE	3	TRUE	nad5_mt	875	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	292	2	873	876	ACG	T	ATG	M	ACG->ATG	T->M	non-syn	96.38	1548	95.15	577	98.25	457	96.11	514	99.95	10939
+nad5_mt 1318 CT	TRUE	1	FALSE	nad5_mt	1318	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	440	1	1317	1320	CTA	L	TTA	L	CTA->TTA	L->L	syn	10.88	911	15.32	334	NA	NA	NA	NA	NA	NA
+nad5_mt 1400 CT	TRUE	3	TRUE	nad5_mt	1400	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	467	2	1398	1401	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	73.58	265	81.37	102	59.76	82	77.78	81	99.86	10737
+nad5_mt 1490 CT	TRUE	3	TRUE	nad5_mt	1490	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	497	2	1488	1491	CCC	P	CTC	L	CCC->CTC	P->L	non-syn	100	209	100	99	100	72	100	38	99.99	10406
+nad5_mt 1544 CT	FALSE	0	TRUE	nad5_mt	1544	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	515	2	1542	1545	ACC	T	ATC	I	ACC->ATC	T->I	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	15.15	10501
+nad5_mt 1550 CT	TRUE	3	TRUE	nad5_mt	1550	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	517	2	1548	1551	ACC	T	ATC	I	ACC->ATC	T->I	non-syn	100	192	100	76	100	72	100	44	99.97	10174
+nad5_mt 1580 CT	TRUE	3	TRUE	nad5_mt	1580	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	527	2	1578	1581	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	97.32	224	98.68	76	98.88	89	93.22	59	99.97	9954
+nad5_mt 1610 CT	TRUE	3	TRUE	nad5_mt	1610	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	537	2	1608	1611	CCC	P	CTC	L	CCC->CTC	P->L	non-syn	94.29	105	90.48	21	92	50	100	34	99.99	9356
+nad5_mt 1665 CT	FALSE	1	TRUE	nad5_mt	1665	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	555	3	1662	1665	CTC	L	CTT	L	CTC->CTT	L->L	syn	NA	NA	NA	NA	NA	NA	16.33	49	20.65	10593
+nad5_mt 1731 CT	TRUE	2	TRUE	nad5_mt	1731	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	577	3	1728	1731	TTC	F	TTT	F	TTC->TTT	F->F	syn	16.95	118	21.21	33	NA	NA	32.5	40	27.31	11885
+nad5_mt 1895 CT	TRUE	3	TRUE	nad5_mt	1895	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	632	2	1893	1896	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	97.84	185	94	50	100	63	98.61	72	99.95	15539
+nad5_mt 1916 CT	TRUE	3	TRUE	nad5_mt	1916	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	639	2	1914	1917	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	100	174	100	50	100	61	100	63	99.99	14241
+nad5_mt 1918 CT	TRUE	3	TRUE	nad5_mt	1918	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	640	1	1917	1920	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	100	174	100	50	100	61	100	63	99.99	14198
+nad5_mt 1929 CT	FALSE	0	TRUE	nad5_mt	1929	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	643	3	1926	1929	GAC	D	GAT	D	GAC->GAT	D->D	syn	NA	NA	NA	NA	NA	NA	NA	NA	17.06	14404
+nad5_mt 1958 CT	TRUE	3	TRUE	nad5_mt	1958	CT	Mt	nad5	protein_coding	NADH dehydrogenase subunit 5	653	2	1956	1959	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	97.71	131	95.24	42	100	50	97.44	39	99.92	12649
+nad6_mt 26 CT	TRUE	3	TRUE	nad6_mt	26	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	9	2	24	27	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	99.49	395	98.94	189	100	99	100	107	97.73	61226
+nad6_mt 53 CT	TRUE	3	TRUE	nad6_mt	53	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	18	2	51	54	GCA	A	GTA	V	GCA->GTA	A->V	non-syn	96.01	326	95.54	157	95.35	86	97.59	83	95.54	39605
+nad6_mt 88 CT	TRUE	3	TRUE	nad6_mt	88	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	30	1	87	90	CCC	P	TTT	F	CCC->TTT	P->F	non-syn	92.17	332	91.57	166	90.8	87	94.94	79	97.03	37589
+nad6_mt 89 CT	TRUE	3	TRUE	nad6_mt	89	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	30	2	87	90	CCC	P	TTT	F	CCC->TTT	P->F	non-syn	92.17	332	92.17	166	89.66	87	94.94	79	94.31	37798
+nad6_mt 90 CT	FALSE	1	FALSE	nad6_mt	90	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	30	3	87	90	CCC	P	TTT	F	CCC->TTT	P->F	non-syn	NA	NA	NA	NA	NA	NA	11.39	79	NA	NA
+nad6_mt 95 CT	TRUE	3	TRUE	nad6_mt	95	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	32	2	93	96	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	92.84	349	90.59	170	94.9	98	95.06	81	96.71	39610
+nad6_mt 103 CT	TRUE	3	TRUE	nad6_mt	103	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	35	1	102	105	CGC	R	TGC	C	CGC->TGC	R->C	non-syn	92.06	315	91.82	159	90.7	86	94.29	70	95.9	39709
+nad6_mt 161 CT	TRUE	3	TRUE	nad6_mt	161	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	54	2	159	162	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	95.66	692	94.92	315	94.12	170	98.07	207	95.55	38709
+nad6_mt 169 CT	TRUE	3	TRUE	nad6_mt	169	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	57	1	168	171	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	95.19	770	94.1	339	93.47	199	98.28	232	96.82	38653
+nad6_mt 191 CT	TRUE	3	TRUE	nad6_mt	191	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	64	2	189	192	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	96.55	841	94.79	365	97.31	223	98.42	253	98.01	38542
+nad6_mt 446 CT	TRUE	3	TRUE	nad6_mt	446	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	149	2	444	447	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	99.46	7420	99.85	2582	99.12	2601	99.42	2237	97.86	23434
+nad6_mt 463 CT	TRUE	3	TRUE	nad6_mt	463	CT	Mt	nad6	protein_coding	NADH dehydrogenase subunit 6	155	1	462	465	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	98.66	7445	99.58	2616	98	2594	98.34	2235	92.6	27981
+nad7_mt 24 CT	TRUE	3	TRUE	nad7_mt	24	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	8	3	21	24	ATC	I	ATT	I	ATC->ATT	I->I	syn	94.87	10501	93.93	3939	95.4	3215	95.46	3347	98.21	23127
+nad7_mt 38 CT	TRUE	3	TRUE	nad7_mt	38	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	13	2	36	39	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	88.57	9520	87.98	3630	87.72	2908	90.1	2982	99.01	23723
+nad7_mt 77 CT	TRUE	3	TRUE	nad7_mt	77	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	26	2	75	78	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.73	10679	99.65	4026	99.85	3288	99.7	3365	99.99	16616
+nad7_mt 137 CT	TRUE	3	TRUE	nad7_mt	137	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	46	2	135	138	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.6	10477	99.49	3717	99.5	3396	99.82	3364	99.99	17928
+nad7_mt 200 CT	TRUE	3	TRUE	nad7_mt	200	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	67	2	198	201	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	99.61	6434	99.7	2349	99.85	1990	99.28	2095	99.98	18613
+nad7_mt 209 CT	TRUE	3	TRUE	nad7_mt	209	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	70	2	207	210	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.66	5549	99.66	2058	99.76	1657	99.56	1834	99.96	18622
+nad7_mt 213 CT	TRUE	3	TRUE	nad7_mt	213	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	71	3	210	213	GAC	D	GAT	D	GAC->GAT	D->D	syn	98.04	5042	98.15	1896	97.86	1493	98.06	1653	98.1	18909
+nad7_mt 244 CT	TRUE	3	TRUE	nad7_mt	244	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	82	1	243	246	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	99.76	6272	99.78	2316	99.7	1972	99.8	1984	99.9	19494
+nad7_mt 251 CT	TRUE	3	TRUE	nad7_mt	251	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	84	2	249	252	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.83	6421	99.87	2341	100	2006	99.61	2074	99.82	19688
+nad7_mt 316 CT	TRUE	3	TRUE	nad7_mt	316	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	106	1	315	318	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	99.65	10827	99.48	3660	99.78	3637	99.69	3530	99.96	20011
+nad7_mt 335 CT	TRUE	3	TRUE	nad7_mt	335	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	112	2	333	336	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.46	13964	99.45	4739	99.68	4705	99.25	4520	99.98	19929
+nad7_mt 344 CT	TRUE	3	TRUE	nad7_mt	344	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	115	2	342	345	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	97.17	15194	97.54	5169	96.71	5110	97.25	4915	98.87	20325
+nad7_mt 578 CT	TRUE	3	TRUE	nad7_mt	578	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	193	2	576	579	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.67	34485	99.67	12554	99.7	10435	99.64	11496	99.98	22352
+nad7_mt 679 CT	TRUE	3	TRUE	nad7_mt	679	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	227	1	678	681	CCA	P	TCA	S	CCA->TCA	P->S	non-syn	98.91	29971	98.84	10957	98.82	9117	99.08	9897	99.71	23817
+nad7_mt 698 CT	TRUE	3	TRUE	nad7_mt	698	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	233	2	696	699	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	98.64	7727	98.34	2959	98.59	2267	99.04	2501	99.8	23324
+nad7_mt 724 CT	TRUE	3	TRUE	nad7_mt	724	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	242	1	723	726	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	99.56	6838	99.62	2624	99.27	1916	99.74	2298	99.62	23931
+nad7_mt 734 CT	TRUE	3	TRUE	nad7_mt	734	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	245	2	732	735	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	99.74	6656	99.76	2520	99.68	1899	99.78	2237	99.83	23602
+nad7_mt 739 CT	TRUE	3	TRUE	nad7_mt	739	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	247	1	738	741	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	98.71	6681	98.76	2513	98.32	1913	98.98	2255	99.39	23197
+nad7_mt 769 CT	TRUE	3	TRUE	nad7_mt	769	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	257	1	768	771	CGC	R	TGC	C	CGC->TGC	R->C	non-syn	99.6	4020	99.14	1512	100	1202	99.77	1306	99.98	23444
+nad7_mt 789 CT	TRUE	3	TRUE	nad7_mt	789	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	263	3	786	789	ATC	I	ATT	I	ATC->ATT	I->I	syn	16.67	3341	16.74	1195	15.81	1056	17.43	1090	21.35	24795
+nad7_mt 795 CT	TRUE	3	TRUE	nad7_mt	795	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	265	3	792	795	ATC	I	ATT	I	ATC->ATT	I->I	syn	64.05	3063	65.52	1108	59.58	955	66.7	1000	87.76	24298
+nad7_mt 926 CT	TRUE	3	TRUE	nad7_mt	926	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	309	2	924	927	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.41	3465	97.25	1271	99.32	1025	98.89	1169	99.95	21555
+nad7_mt 963 CT	TRUE	3	TRUE	nad7_mt	963	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	321	3	960	963	TCC	S	TCT	S	TCC->TCT	S->S	syn	95.51	4051	94.49	1469	96.57	1226	95.65	1356	99.79	20938
+nad7_mt 1050 CT	TRUE	3	TRUE	nad7_mt	1050	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	350	3	1047	1050	CCC	P	CCT	P	CCC->CCT	P->P	syn	12.82	7135	10.51	2370	13.76	2333	14.19	2432	22.76	28764
+nad7_mt 1057 CT	TRUE	3	TRUE	nad7_mt	1057	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	353	1	1056	1059	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	99.7	6271	99.55	2011	99.72	2113	99.81	2147	99.92	28032
+nad7_mt 1079 CT	TRUE	3	TRUE	nad7_mt	1079	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	360	2	1077	1080	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	99.51	5865	99.36	1873	99.49	1967	99.65	2025	99.96	26641
+nad7_mt 1088 CT	TRUE	3	TRUE	nad7_mt	1088	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	363	2	1086	1089	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	99.29	6641	98.93	2049	99.25	2263	99.66	2329	99.92	25579
+nad7_mt 1103 CT	TRUE	3	TRUE	nad7_mt	1103	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	368	2	1101	1104	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	99.48	6571	99.36	2028	99.47	2249	99.61	2294	99.98	25482
+nad7_mt 1124 CT	TRUE	3	TRUE	nad7_mt	1124	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	375	2	1122	1125	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	99.57	5870	99.72	1774	99.5	1990	99.53	2106	99.62	24097
+nad7_mt 1137 CT	TRUE	3	TRUE	nad7_mt	1137	CT	Mt	nad7	protein_coding	NADH dehydrogenase subunit 7	379	3	1134	1137	GTC	V	GTT	V	GTC->GTT	V->V	syn	57.52	5861	54.66	1769	58.84	1992	58.67	2100	76.04	24162
+nad9_mt 92 CT	TRUE	3	TRUE	nad9_mt	92	CT	Mt	nad9	protein_coding	NADH dehydrogenase subunit 9	31	2	90	93	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	94.05	2017	96.37	773	92.62	637	92.59	607	75.02	48309
+nad9_mt 167 CT	TRUE	3	TRUE	nad9_mt	167	CT	Mt	nad9	protein_coding	NADH dehydrogenase subunit 9	56	2	165	168	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	96.71	2830	97.5	1119	96.38	857	96.01	854	90.02	33676
+nad9_mt 190 CT	TRUE	3	TRUE	nad9_mt	190	CT	Mt	nad9	protein_coding	NADH dehydrogenase subunit 9	64	1	189	192	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	97.25	2948	97.92	1154	96.45	930	97.22	864	92.87	33648
+nad9_mt 298 CT	TRUE	3	TRUE	nad9_mt	298	CT	Mt	nad9	protein_coding	NADH dehydrogenase subunit 9	100	1	297	300	CCG	P	TCG	S	CCG->TCG	P->S	non-syn	94.05	2150	96.5	857	93.14	641	91.72	652	74.77	34552
+nad9_mt 328 CT	TRUE	3	TRUE	nad9_mt	328	CT	Mt	nad9	protein_coding	NADH dehydrogenase subunit 9	110	1	327	330	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	97.11	3670	97.67	1501	96.67	1082	96.78	1087	90.01	31615
+nad9_mt 398 CT	TRUE	3	TRUE	nad9_mt	398	CT	Mt	nad9	protein_coding	NADH dehydrogenase subunit 9	133	2	396	399	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.78	4084	98.53	1633	98.07	1193	99.76	1258	90.7	28575
+nad9_mt 439 CT	TRUE	3	TRUE	nad9_mt	439	CT	Mt	nad9	protein_coding	NADH dehydrogenase subunit 9	147	1	438	441	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	97.25	3820	96.69	1510	96.76	1142	98.46	1168	77.83	25211
+ndhB_pt 149 CT	TRUE	3	TRUE	ndhB_pt	149	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	50	2	147	150	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	64.31	1925	59.77	778	66.38	467	68.09	680	85.39	37678
+ndhB_pt 467 CT	TRUE	3	TRUE	ndhB_pt	467	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	156	2	465	468	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	85.83	3111	84.67	1631	87.8	582	86.67	898	78.71	28501
+ndhB_pt 586 CT	TRUE	3	TRUE	ndhB_pt	586	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	196	1	585	588	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	79.87	4167	76.33	2214	86.73	784	81.95	1169	86.41	27600
+ndhB_pt 726 CT	FALSE	0	TRUE	ndhB_pt	726	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	242	3	723	726	TTC	F	TTT	F	TTC->TTT	F->F	syn	NA	NA	NA	NA	NA	NA	NA	NA	12.37	32923
+ndhB_pt 746 CT	TRUE	3	TRUE	ndhB_pt	746	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	249	2	744	747	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	63.83	2352	64.15	1185	62.23	458	64.32	709	88.78	31060
+ndhB_pt 830 CT	TRUE	3	TRUE	ndhB_pt	830	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	277	2	828	831	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	24.02	4613	29.2	1986	22.84	985	18.45	1642	87.04	19156
+ndhB_pt 836 CT	TRUE	3	TRUE	ndhB_pt	836	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	279	2	834	837	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	22.93	4583	27.71	1963	21.07	973	18.34	1647	83.26	19565
+ndhB_pt 872 CT	TRUE	3	TRUE	ndhB_pt	872	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	291	2	870	873	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	36.3	5678	41.43	2484	35.2	1213	30.54	1981	84.45	22090
+ndhB_pt 1255 CT	FALSE	0	TRUE	ndhB_pt	1255	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	419	1	1254	1257	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	87.26	33944
+ndhB_pt 1481 CT	FALSE	0	TRUE	ndhB_pt	1481	CT	Pt	ndhB	protein_coding	NADH dehydrogenase subunit 2	494	2	1479	1482	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	82.54	38491
+ndhD_pt 2 CT	TRUE	3	FALSE	ndhD_pt	2	CT	Pt	ndhD	protein_coding	NADH dehydrogenase subunit 4	1	2	0	3	ACG	T	ATG	M	ACG->ATG	T->M	non-syn	54.3	2162	56.55	992	43.57	482	58.58	688	NA	NA
+ndhD_pt 383 CT	TRUE	3	TRUE	ndhD_pt	383	CT	Pt	ndhD	protein_coding	NADH dehydrogenase subunit 4	128	2	381	384	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	76.28	8671	76.36	4378	73.63	1885	78.2	2408	97.06	30982
+ndhD_pt 674 CT	TRUE	3	TRUE	ndhD_pt	674	CT	Pt	ndhD	protein_coding	NADH dehydrogenase subunit 4	225	2	672	675	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	50.8	4907	56.02	2210	42.07	1324	50.84	1373	95.01	30493
+ndhD_pt 878 CT	TRUE	3	TRUE	ndhD_pt	878	CT	Pt	ndhD	protein_coding	NADH dehydrogenase subunit 4	293	2	876	879	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	39.81	3205	46.27	1474	31.99	819	36.4	912	88.99	41550
+ndhD_pt 887 CT	TRUE	3	TRUE	ndhD_pt	887	CT	Pt	ndhD	protein_coding	NADH dehydrogenase subunit 4	296	2	885	888	CCC	P	CTC	L	CCC->CTC	P->L	non-syn	41.23	3126	47.98	1457	32.16	768	38.07	901	91.09	40500
+ndhF_pt 290 CT	TRUE	3	TRUE	ndhF_pt	290	CT	Pt	ndhF	protein_coding	NADH dehydrogenase subunit 5	97	2	288	291	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	45.71	2962	48.94	1420	35.44	680	48.49	862	93.27	24727
+ndhG_pt 50 CT	TRUE	3	TRUE	ndhG_pt	50	CT	Pt	ndhG	protein_coding	NADH dehydrogenase subunit 6	17	2	48	51	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	83.83	1793	85.26	665	81.93	498	83.81	630	87.63	48553
+petL_pt 5 CT	TRUE	3	TRUE	petL_pt	5	CT	Pt	petL	protein_coding	cytochrome b6/f complex subunit VI	2	2	3	6	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	95.07	8764	95.1	3099	94.14	2424	95.74	3241	67.85	98002
+psbE_pt 214 CT	TRUE	3	TRUE	psbE_pt	214	CT	Pt	psbE	protein_coding	photosystem II protein V	72	1	213	216	CCT	P	TCT	S	CCT->TCT	P->S	non-syn	81.1	1333	81.74	575	75.32	385	86.06	373	99.63	27222
+psbF_pt 77 CT	TRUE	3	TRUE	psbF_pt	77	CT	Pt	psbF	protein_coding	photosystem II protein VI	26	2	75	78	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	92.73	439	93.1	162	92.86	150	92.11	127	97.39	5216
+psbZ_pt 50 CT	TRUE	3	TRUE	psbZ_pt	50	CT	Pt	psbZ	protein_coding	photosystem II protein Z	17	2	48	51	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	90.32	11842	89.87	4473	91.95	3402	89.44	3967	82.99	40297
+rpl16_mt 34 CT	TRUE	3	TRUE	rpl16_mt	34	CT	Mt	rpl16	protein_coding	ribosomal protein L16	12	1	33	36	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	88.5	16285	88.92	5778	88.14	5498	88.42	5009	93.74	37696
+rpl16_mt 43 CT	FALSE	0	TRUE	rpl16_mt	43	CT	Mt	rpl16	protein_coding	ribosomal protein L16	15	1	42	45	CTA	L	TTA	L	CTA->TTA	L->L	syn	NA	NA	NA	NA	NA	NA	NA	NA	19.19	40326
+rpl16_mt 61 CT	TRUE	3	TRUE	rpl16_mt	61	CT	Mt	rpl16	protein_coding	ribosomal protein L16	21	1	60	63	CAG	Q	TAG	*	CAG->TAG	Q->*	non-syn	97.48	22978	97.39	8126	97.56	7511	97.51	7341	96.83	39681
+rpl16_mt 209 CT	TRUE	3	TRUE	rpl16_mt	209	CT	Mt	rpl16	protein_coding	ribosomal protein L16	70	2	207	210	ACT	T	ATT	I	ACT->ATT	T->I	non-syn	96.52	81663	96.79	30297	96.22	25208	96.5	26158	97.81	38143
+rpl16_mt 440 CT	TRUE	3	TRUE	rpl16_mt	440	CT	Mt	rpl16	protein_coding	ribosomal protein L16	147	2	438	441	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	97.22	74495	97.47	25715	96.98	23268	97.19	25512	98.12	60003
+rpl16_mt 506 CT	TRUE	3	TRUE	rpl16_mt	506	CT	Mt	rpl16	protein_coding	ribosomal protein L16	169	2	504	507	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	95.71	117573	95.88	39358	95.64	37759	95.61	40456	93.44	53246
+rpl16_mt 512 CT	TRUE	3	TRUE	rpl16_mt	512	CT	Mt	rpl16	protein_coding	ribosomal protein L16	171	2	510	513	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	97.72	117705	97.72	39448	97.61	37795	97.81	40462	99.03	53486
+rpl2_mt 212 CT	TRUE	3	TRUE	rpl2_mt	212	CT	Mt	rpl2	protein_coding	ribosomal protein L2	71	2	210	213	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	69.52	8082	71.1	2907	70.21	2662	66.97	2513	76.48	22591
+rpl2_mt 711 CT	FALSE	0	TRUE	rpl2_mt	711	CT	Mt	rpl2	protein_coding	ribosomal protein L2	237	3	708	711	ATC	I	ATT	I	ATC->ATT	I->I	syn	NA	NA	NA	NA	NA	NA	NA	NA	14.75	29448
+rpl23_pt 89 CT	TRUE	3	TRUE	rpl23_pt	89	CT	Pt	rpl23	protein_coding	ribosomal protein L23	30	2	87	90	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	85.78	8607	85.74	3507	87.5	2336	84.37	2764	21.41	34458
+rpl5_mt 35 CT	TRUE	3	TRUE	rpl5_mt	35	CT	Mt	rpl5	protein_coding	ribosomal protein L5	12	2	33	36	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	90.31	1631	92.07	694	91.99	487	85.78	450	82.27	29076
+rpl5_mt 47 CT	TRUE	3	TRUE	rpl5_mt	47	CT	Mt	rpl5	protein_coding	ribosomal protein L5	16	2	45	48	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	90.49	1756	92.08	720	92.78	526	85.88	510	84.16	29575
+rpl5_mt 58 CT	TRUE	3	TRUE	rpl5_mt	58	CT	Mt	rpl5	protein_coding	ribosomal protein L5	20	1	57	60	CCG	P	TTG	L	CCG->TTG	P->L	non-syn	62.3	1862	61.94	775	64.23	520	61.02	567	62.49	30143
+rpl5_mt 59 CT	TRUE	3	TRUE	rpl5_mt	59	CT	Mt	rpl5	protein_coding	ribosomal protein L5	20	2	57	60	CCG	P	TTG	L	CCG->TTG	P->L	non-syn	90.45	1843	91.32	772	90.98	510	88.77	561	83.51	30360
+rpl5_mt 64 CT	TRUE	3	TRUE	rpl5_mt	64	CT	Mt	rpl5	protein_coding	ribosomal protein L5	22	1	63	66	CAC	H	TAC	Y	CAC->TAC	H->Y	non-syn	70.15	1933	70.85	796	71.14	537	68.33	600	52.65	31134
+rpl5_mt 92 CT	TRUE	3	TRUE	rpl5_mt	92	CT	Mt	rpl5	protein_coding	ribosomal protein L5	31	2	90	93	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	90.41	2005	90.4	802	92.83	572	88.24	631	83.65	31914
+rpl5_mt 169 CT	TRUE	3	TRUE	rpl5_mt	169	CT	Mt	rpl5	protein_coding	ribosomal protein L5	57	1	168	171	CGC	R	TGC	C	CGC->TGC	R->C	non-syn	89.53	3046	89.29	1092	90.59	946	88.79	1008	88.91	22292
+rpl5_mt 317 CT	TRUE	3	TRUE	rpl5_mt	317	CT	Mt	rpl5	protein_coding	ribosomal protein L5	106	2	315	318	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	92.28	4419	91.54	1615	92.34	1479	93.12	1325	91.13	21369
+rpl5_mt 329 CT	TRUE	3	TRUE	rpl5_mt	329	CT	Mt	rpl5	protein_coding	ribosomal protein L5	110	2	327	330	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	96.53	4234	96.45	1551	96.44	1432	96.72	1251	96.64	21688
+rpl5_mt 512 CT	TRUE	3	TRUE	rpl5_mt	512	CT	Mt	rpl5	protein_coding	ribosomal protein L5	171	2	510	513	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	91.37	7130	91.61	2599	91.7	2300	90.77	2231	87.97	22174
+rpoA_pt 200 CT	TRUE	3	TRUE	rpoA_pt	200	CT	Pt	rpoA	protein_coding	RNA polymerase alpha subunit	67	2	198	201	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	90.95	18319	89.9	7695	93.63	4899	90.06	5725	89.94	61726
+rpoB_pt 338 CT	TRUE	3	TRUE	rpoB_pt	338	CT	Pt	rpoB	protein_coding	RNA polymerase beta subunit	113	2	336	339	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	88.81	4670	87.68	1990	89.14	1170	90.05	1510	83.81	56766
+rpoB_pt 551 CT	TRUE	3	TRUE	rpoB_pt	551	CT	Pt	rpoB	protein_coding	RNA polymerase beta subunit	184	2	549	552	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	92.25	1819	92.37	865	92.22	437	92.07	517	84.53	41779
+rpoB_pt 2432 CT	TRUE	3	TRUE	rpoB_pt	2432	CT	Pt	rpoB	protein_coding	RNA polymerase beta subunit	811	2	2430	2433	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	88.7	36132	87.69	14155	89.83	10176	88.94	11801	86.21	99071
+rpoC1_pt 488 CT	TRUE	3	FALSE	rpoC1_pt	488	CT	Pt	rpoC1	protein_coding	RNA polymerase beta1 subunit	163	2	486	489	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	40.51	13989	39.64	4592	46.1	4484	36.21	4913	NA	NA
+rps12_mt 84 CT	TRUE	3	TRUE	rps12_mt	84	CT	Mt	rps12	protein_coding	ribosomal protein S12	28	3	81	84	CCC	P	CCT	P	CCC->CCT	P->P	syn	89.33	7960	86.52	2812	90.67	2668	91.09	2480	54.57	72409
+rps12_mt 104 CT	TRUE	3	TRUE	rps12_mt	104	CT	Mt	rps12	protein_coding	ribosomal protein S12	35	2	102	105	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	89.63	7490	89.58	2668	89.57	2358	89.73	2464	47.78	65376
+rps12_mt 146 CT	TRUE	3	TRUE	rps12_mt	146	CT	Mt	rps12	protein_coding	ribosomal protein S12	49	2	144	147	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	95.17	8982	95.38	3249	95.44	2807	94.67	2926	66.32	40933
+rps12_mt 159 CT	FALSE	1	FALSE	rps12_mt	159	CT	Mt	rps12	protein_coding	ribosomal protein S12	53	3	156	159	GCC	A	GCT	A	GCC->GCT	A->A	syn	NA	NA	NA	NA	NA	NA	11.12	2761	NA	NA
+rps12_mt 196 CT	TRUE	3	TRUE	rps12_mt	196	CT	Mt	rps12	protein_coding	ribosomal protein S12	66	1	195	198	CAC	H	TAC	Y	CAC->TAC	H->Y	non-syn	94.02	10720	93.77	3771	93.43	3396	94.85	3553	77.19	42769
+rps12_mt 221 CT	TRUE	3	TRUE	rps12_mt	221	CT	Mt	rps12	protein_coding	ribosomal protein S12	74	2	219	222	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	90.47	10900	90.1	3860	90.86	3414	90.49	3626	62.67	44098
+rps12_mt 269 CT	TRUE	3	TRUE	rps12_mt	269	CT	Mt	rps12	protein_coding	ribosomal protein S12	90	2	267	270	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	94.18	12481	93.46	4295	94.7	4056	94.43	4130	64.79	49466
+rps12_mt 284 CT	TRUE	3	TRUE	rps12_mt	284	CT	Mt	rps12	protein_coding	ribosomal protein S12	95	2	282	285	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	94.78	12386	93.6	4253	96.11	4034	94.71	4099	66.14	70549
+rps12_mt 285 CT	TRUE	3	TRUE	rps12_mt	285	CT	Mt	rps12	protein_coding	ribosomal protein S12	95	3	282	285	TCC	S	TTT	F	TCC->TTT	S->F	non-syn	88.25	12381	86.6	4253	89.24	4034	88.98	4094	41.67	70435
+rps14_mt 99 CT	TRUE	3	FALSE	rps14_mt	99	CT	Mt	rps14	pseudogene	NA	33	3	96	99	CCC	P	CCT	P	CCC->CCT	P->P	syn	21.48	852	26.3	346	22.62	252	13.78	254	NA	NA
+rps14_mt 194 CT	TRUE	3	TRUE	rps14_mt	194	CT	Mt	rps14	pseudogene	NA	65	2	192	195	TCC	S	TTC	F	TCC->TTC	S->F	non-syn	74.66	880	76.27	316	73.16	313	74.5	251	27.48	41825
+rps14_pt 80 CT	TRUE	3	TRUE	rps14_pt	80	CT	Pt	rps14	protein_coding	ribosomal protein S14	27	2	78	81	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	98.29	25448	98.39	10108	98.32	7024	98.15	8316	84.19	95916
+rps14_pt 149 CT	TRUE	3	TRUE	rps14_pt	149	CT	Pt	rps14	protein_coding	ribosomal protein S14	50	2	147	150	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	95.44	22247	95.93	8619	95.6	6276	94.72	7352	79.43	97507
+rps3_mt 64 CT	TRUE	3	TRUE	rps3_mt	64	CT	Mt	rps3	protein_coding	ribosomal protein S3	22	1	63	66	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	98.3	356	96.36	113	99.22	129	99.12	114	99.5	13889
+rps3_mt 126 CT	FALSE	0	TRUE	rps3_mt	126	CT	Mt	rps3	protein_coding	ribosomal protein S3	42	3	123	126	TTC	F	TTT	F	TTC->TTT	F->F	syn	NA	NA	NA	NA	NA	NA	NA	NA	13.5	15745
+rps3_mt 210 CT	FALSE	0	TRUE	rps3_mt	210	CT	Mt	rps3	protein_coding	ribosomal protein S3	70	3	207	210	TTC	F	TTT	F	TTC->TTT	F->F	syn	NA	NA	NA	NA	NA	NA	NA	NA	10.85	11364
+rps3_mt 603 CT	TRUE	3	TRUE	rps3_mt	603	CT	Mt	rps3	protein_coding	ribosomal protein S3	201	3	600	603	TTC	F	TTT	F	TTC->TTT	F->F	syn	61.71	1371	60.47	473	56.19	420	67.78	478	81.54	11310
+rps3_mt 887 CT	TRUE	3	TRUE	rps3_mt	887	CT	Mt	rps3	protein_coding	ribosomal protein S3	296	2	885	888	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	69.59	4104	71.45	1324	68.5	1492	68.94	1288	86.92	13400
+rps3_mt 1260 CT	FALSE	0	TRUE	rps3_mt	1260	CT	Mt	rps3	protein_coding	ribosomal protein S3	420	3	1257	1260	GTC	V	GTT	V	GTC->GTT	V->V	syn	NA	NA	NA	NA	NA	NA	NA	NA	18.42	13435
+rps3_mt 1344 CT	TRUE	3	TRUE	rps3_mt	1344	CT	Mt	rps3	protein_coding	ribosomal protein S3	448	3	1341	1344	AGC	S	AGT	S	AGC->AGT	S->S	syn	39.92	9994	41.45	3723	37.9	3127	40.14	3144	62.84	13817
+rps3_mt 1352 CT	TRUE	3	TRUE	rps3_mt	1352	CT	Mt	rps3	protein_coding	ribosomal protein S3	451	2	1350	1353	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	92.99	10087	93.02	3757	92.63	3147	93.32	3183	96.3	13730
+rps3_mt 1470 CT	TRUE	3	TRUE	rps3_mt	1470	CT	Mt	rps3	protein_coding	ribosomal protein S3	490	3	1467	1470	TCC	S	TCT	S	TCC->TCT	S->S	syn	84.7	8261	84.17	3196	85.69	2733	84.26	2332	90.78	12272
+rps3_mt 1534 CT	TRUE	3	TRUE	rps3_mt	1534	CT	Mt	rps3	protein_coding	ribosomal protein S3	512	1	1533	1536	CGT	R	TGT	C	CGT->TGT	R->C	non-syn	81.2	10834	80.99	3947	81.55	3810	81.05	3077	62.98	22859
+rps3_mt 1571 CT	TRUE	3	TRUE	rps3_mt	1571	CT	Mt	rps3	protein_coding	ribosomal protein S3	524	2	1569	1572	GCG	A	GTG	V	GCG->GTG	A->V	non-syn	89.57	11669	89.33	4115	90.03	4093	89.31	3461	96.31	29273
+rps3_mt 1580 CT	FALSE	0	TRUE	rps3_mt	1580	CT	Mt	rps3	protein_coding	ribosomal protein S3	527	2	1578	1581	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	NA	NA	NA	NA	NA	NA	NA	NA	19.71	29383
+rps3_mt 1598 CT	TRUE	3	TRUE	rps3_mt	1598	CT	Mt	rps3	protein_coding	ribosomal protein S3	533	2	1596	1599	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	97.18	12523	97.17	4410	97.02	4398	97.39	3715	98.14	28871
+rps4_mt 25 CT	FALSE	1	FALSE	rps4_mt	25	CT	Mt	rps4	protein_coding	ribosomal protein S4	9	1	24	27	CAA	Q	TAA	*	CAA->TAA	Q->*	non-syn	NA	NA	NA	NA	NA	NA	11.28	1090	NA	NA
+rps4_mt 77 CT	TRUE	3	TRUE	rps4_mt	77	CT	Mt	rps4	protein_coding	ribosomal protein S4	26	2	75	78	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	91.94	3675	91.1	1372	93.32	1197	91.49	1106	45.19	28255
+rps4_mt 88 CT	TRUE	3	TRUE	rps4_mt	88	CT	Mt	rps4	protein_coding	ribosomal protein S4	30	1	87	90	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	92.04	3699	90.17	1374	93.39	1210	92.9	1115	48.29	29239
+rps4_mt 175 CT	TRUE	3	TRUE	rps4_mt	175	CT	Mt	rps4	protein_coding	ribosomal protein S4	59	1	174	177	CCG	P	TCG	S	CCG->TCG	P->S	non-syn	85.82	3887	85.19	1452	87.36	1274	84.93	1161	21.74	20883
+rps4_mt 226 CT	TRUE	3	TRUE	rps4_mt	226	CT	Mt	rps4	protein_coding	ribosomal protein S4	76	1	225	228	CCC	P	TCC	S	CCC->TCC	P->S	non-syn	91.52	3787	90.98	1408	93.31	1255	90.21	1124	51.93	21006
+rps4_mt 235 CT	TRUE	3	TRUE	rps4_mt	235	CT	Mt	rps4	protein_coding	ribosomal protein S4	79	1	234	237	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	89.66	3802	89.3	1409	91.73	1266	87.78	1127	47.79	20887
+rps4_mt 299 CT	TRUE	3	TRUE	rps4_mt	299	CT	Mt	rps4	protein_coding	ribosomal protein S4	100	2	297	300	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	90.13	537	86.51	252	98.16	163	86.89	122	57.4	21564
+rps4_mt 308 CT	TRUE	3	TRUE	rps4_mt	308	CT	Mt	rps4	protein_coding	ribosomal protein S4	103	2	306	309	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	86.68	518	80.17	232	94.3	158	89.06	128	43.77	21571
+rps4_mt 332 CT	TRUE	3	TRUE	rps4_mt	332	CT	Mt	rps4	protein_coding	ribosomal protein S4	111	2	330	333	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	91.87	627	88	250	95.45	198	93.3	179	56.91	21332
+rps4_mt 377 CT	TRUE	3	TRUE	rps4_mt	377	CT	Mt	rps4	protein_coding	ribosomal protein S4	126	2	375	378	CCG	P	CTG	L	CCG->CTG	P->L	non-syn	91.11	765	89.78	323	92.96	213	91.27	229	62.41	21003
+rps4_mt 441 CT	FALSE	1	FALSE	rps4_mt	441	CT	Mt	rps4	protein_coding	ribosomal protein S4	147	3	438	441	TCC	S	TCT	S	TCC->TCT	S->S	syn	NA	NA	NA	NA	12.88	427	NA	NA	NA	NA
+rps4_mt 524 CT	TRUE	3	TRUE	rps4_mt	524	CT	Mt	rps4	protein_coding	ribosomal protein S4	175	2	522	525	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	90.59	1660	86.55	648	96.23	505	90.14	507	62.14	19477
+rps4_mt 738 CT	TRUE	3	FALSE	rps4_mt	738	CT	Mt	rps4	protein_coding	ribosomal protein S4	246	3	735	738	TTC	F	TTT	F	TTC->TTT	F->F	syn	13.67	2056	11.7	778	13.83	622	15.85	656	NA	NA
+rps4_mt 936 CT	TRUE	3	FALSE	rps4_mt	936	CT	Mt	rps4	protein_coding	ribosomal protein S4	312	3	933	936	ATC	I	ATT	I	ATC->ATT	I->I	syn	17.94	786	19.21	328	19.33	269	13.76	189	NA	NA
+rps4_mt 956 CT	TRUE	3	TRUE	rps4_mt	956	CT	Mt	rps4	protein_coding	ribosomal protein S4	319	2	954	957	TCG	S	TTG	L	TCG->TTG	S->L	non-syn	91	978	92.11	393	91.5	341	88.52	244	60.77	19442
+rps4_mt 967 CT	TRUE	3	TRUE	rps4_mt	967	CT	Mt	rps4	protein_coding	ribosomal protein S4	323	1	966	969	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	92.32	976	90.79	391	94.72	341	91.39	244	38.09	19016
+rps4_mt 992 CT	TRUE	3	TRUE	rps4_mt	992	CT	Mt	rps4	protein_coding	ribosomal protein S4	331	2	990	993	TCT	S	TTT	F	TCT->TTT	S->F	non-syn	93.61	986	93.22	398	95.89	341	91.09	247	55.2	27142
+rps4_mt 1042 CT	TRUE	3	TRUE	rps4_mt	1042	CT	Mt	rps4	protein_coding	ribosomal protein S4	348	1	1041	1044	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	88.63	941	90.28	391	89.97	309	84.23	241	32.73	24189
+rps4_mt 1043 CT	TRUE	3	TRUE	rps4_mt	1043	CT	Mt	rps4	protein_coding	ribosomal protein S4	348	2	1041	1044	CCA	P	TTA	L	CCA->TTA	P->L	non-syn	79.24	944	80.46	394	83.82	309	71.37	241	25.65	24211
+rps4_mt 1052 CT	TRUE	3	TRUE	rps4_mt	1052	CT	Mt	rps4	protein_coding	ribosomal protein S4	351	2	1050	1053	CCT	P	CTT	L	CCT->CTT	P->L	non-syn	89.66	967	88.5	400	91.95	323	88.52	244	35.17	23303
+rps4_mt 1057 CT	TRUE	3	TRUE	rps4_mt	1057	CT	Mt	rps4	protein_coding	ribosomal protein S4	353	1	1056	1059	CGG	R	TGG	W	CGG->TGG	R->W	non-syn	85.71	847	87.36	356	87.5	280	80.57	211	34.44	23132
+rps7_mt 332 CT	TRUE	3	TRUE	rps7_mt	332	CT	Mt	rps7	protein_coding	ribosomal protein S7	111	2	330	333	TCA	S	TTA	L	TCA->TTA	S->L	non-syn	90.37	8025	90.57	2717	90.88	2479	89.71	2829	71.36	43659
+sdh4_mt 122 CT	TRUE	3	TRUE	sdh4_mt	122	CT	Mt	sdh4	pseudogene	NA	41	2	120	123	ACC	T	ATC	I	ACC->ATC	T->I	non-syn	51.45	6352	51.32	2159	53.6	2192	49.23	2001	21.96	98213
+sdh4_mt 155 CT	TRUE	3	TRUE	sdh4_mt	155	CT	Mt	sdh4	pseudogene	NA	52	2	153	156	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	90.35	5448	89.2	1870	90.5	1864	91.42	1714	53.63	96882
+sdh4_mt 203 CT	TRUE	3	TRUE	sdh4_mt	203	CT	Mt	sdh4	pseudogene	NA	68	2	201	204	CCA	P	CTA	L	CCA->CTA	P->L	non-syn	95.57	2418	97.04	878	93.37	754	96.06	786	72.8	95812
+sdh4_mt 259 CT	TRUE	3	TRUE	sdh4_mt	259	CT	Mt	sdh4	pseudogene	NA	87	1	258	261	CAT	H	TAT	Y	CAT->TAT	H->Y	non-syn	93.89	9339	93.86	3125	94.02	3179	93.77	3035	66.17	6329
+ycf1_pt 2125 CT	TRUE	3	FALSE	ycf1_pt	2125	CT	Pt	ycf1	protein_coding	Ycf1	709	1	2124	2127	CTT	L	TTT	F	CTT->TTT	L->F	non-syn	10.67	14966	10.3	5818	10.86	4376	10.95	4772	NA	NA

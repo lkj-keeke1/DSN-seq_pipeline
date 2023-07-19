@@ -1,0 +1,114 @@
+chr	name_in_ref	Name	gene_biotype	product
+Pt	accD_pt	accD	protein_coding	acetyl-CoA carboxylase beta subunit
+Pt	atpA_pt	atpA	protein_coding	ATP synthase CF1 alpha subunit
+Pt	atpB_pt	atpB	protein_coding	ATP synthase CF1 beta subunit
+Pt	atpE_pt	atpE	protein_coding	ATP synthase CF1 epsilon subunit
+Pt	atpF_pt	atpF	protein_coding	ATP synthase CF0 B subunit
+Pt	atpH_pt	atpH	protein_coding	ATP synthase CF0 C subunit
+Pt	atpI_pt	atpI	protein_coding	ATP synthase CF0 A subunit
+Pt	ccsA_pt	ccsA	protein_coding	cytochrome c biogenesis protein
+Pt	cemA_pt	cemA	protein_coding	envelope membrane protein
+Pt	clpP_pt	clpP	protein_coding	ATP-dependent Clp protease proteolytic subunit
+Pt	matK_pt	matK	protein_coding	maturase K
+Pt	ndhA_pt	ndhA	protein_coding	NADH dehydrogenase subunit 1
+Pt	ndhB_pt	ndhB	protein_coding	NADH dehydrogenase subunit 2
+Pt	ndhC_pt	ndhC	protein_coding	NADH dehydrogenase subunit 3
+Pt	ndhD_pt	ndhD	protein_coding	NADH dehydrogenase subunit 4
+Pt	ndhE_pt	ndhE	protein_coding	NADH dehydrogenase subunit 4L
+Pt	ndhF_pt	ndhF	protein_coding	NADH dehydrogenase subunit 5
+Pt	ndhG_pt	ndhG	protein_coding	NADH dehydrogenase subunit 6
+Pt	ndhH_pt	ndhH	protein_coding	NADH dehydrogenase subunit 7
+Pt	ndhI_pt	ndhI	protein_coding	NADH dehydrogenase subunit I
+Pt	ndhJ_pt	ndhJ	protein_coding	NADH dehydrogenase subunit J
+Pt	ndhK_pt	ndhK	protein_coding	NADH dehydrogenase subunit K
+Pt	petA_pt	petA	protein_coding	cytochrome f
+Pt	petB_pt	petB	protein_coding	cytochrome b6
+Pt	petD_pt	petD	protein_coding	cytochrome b6/f complex subunit IV
+Pt	petG_pt	petG	protein_coding	cytochrome b6/f complex subunit V
+Pt	petL_pt	petL	protein_coding	cytochrome b6/f complex subunit VI
+Pt	petN_pt	petN	protein_coding	cytochrome b6/f complex subunit VIII
+Pt	psaA_pt	psaA	protein_coding	photosystem I P700 chlorophyll a apoprotein A1
+Pt	psaB_pt	psaB	protein_coding	photosystem I P700 chlorophyll a apoprotein A2
+Pt	psaC_pt	psaC	protein_coding	photosystem I subunit VII
+Pt	psaI_pt	psaI	protein_coding	photosystem I subunit VIII
+Pt	psaJ_pt	psaJ	protein_coding	photosystem I subunit IX
+Pt	psbA_pt	psbA	protein_coding	photosystem II protein D1
+Pt	psbB_pt	psbB	protein_coding	photosystem II 47 kDa protein
+Pt	psbC_pt	psbC	protein_coding	photosystem II 44 kDa protein
+Pt	psbD_pt	psbD	protein_coding	photosystem II protein D2
+Pt	psbE_pt	psbE	protein_coding	photosystem II protein V
+Pt	psbF_pt	psbF	protein_coding	photosystem II protein VI
+Pt	psbH_pt	psbH	protein_coding	photosystem II protein H
+Pt	psbI_pt	psbI	protein_coding	photosystem II protein I
+Pt	psbJ_pt	psbJ	protein_coding	photosystem II protein J
+Pt	psbK_pt	psbK	protein_coding	photosystem II protein K
+Pt	psbL_pt	psbL	protein_coding	photosystem II protein L
+Pt	psbM_pt	psbM	protein_coding	photosystem II protein M
+Pt	psbN_pt	psbN	protein_coding	photosystem II protein N
+Pt	psbT_pt	psbT	protein_coding	photosystem II protein T
+Pt	psbZ_pt	psbZ	protein_coding	photosystem II protein Z
+Pt	rbcL_pt	rbcL	protein_coding	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit
+Pt	rpl14_pt	rpl14	protein_coding	ribosomal protein L14
+Pt	rpl16_pt	rpl16	protein_coding	ribosomal protein L16
+Pt	rpl2_pt	rpl2	protein_coding	ribosomal protein L2
+Pt	rpl20_pt	rpl20	protein_coding	ribosomal protein L20
+Pt	rpl22_pt	rpl22	protein_coding	ribosomal protein L22
+Pt	rpl23_pt	rpl23	protein_coding	ribosomal protein L23
+Pt	rpl32_pt	rpl32	protein_coding	ribosomal protein L32
+Pt	rpl33_pt	rpl33	protein_coding	ribosomal protein L33
+Pt	rpl36_pt	rpl36	protein_coding	ribosomal protein L36
+Pt	rpoA_pt	rpoA	protein_coding	RNA polymerase alpha subunit
+Pt	rpoB_pt	rpoB	protein_coding	RNA polymerase beta subunit
+Pt	rpoC1_pt	rpoC1	protein_coding	RNA polymerase beta1 subunit
+Pt	rpoC2_pt	rpoC2	protein_coding	RNA polymerase beta2 subunit
+Pt	rps11_pt	rps11	protein_coding	ribosomal protein S11
+Pt	rps12_pt	rps12	protein_coding	ribosomal protein S12
+Pt	rps14_pt	rps14	protein_coding	ribosomal protein S14
+Pt	rps15_pt	rps15	protein_coding	ribosomal protein S15
+Pt	rps16_pt	rps16	protein_coding	ribosomal protein S16
+Pt	rps18_pt	rps18	protein_coding	ribosomal protein S18
+Pt	rps19_pt	rps19	protein_coding	ribosomal protein S19
+Pt	rps2_pt	rps2	protein_coding	ribosomal protein S2
+Pt	rps3_pt	rps3	protein_coding	ribosomal protein S3
+Pt	rps4_pt	rps4	protein_coding	ribosomal protein S4
+Pt	rps7_pt	rps7	protein_coding	ribosomal protein S7
+Pt	rps8_pt	rps8	protein_coding	ribosomal protein S8
+Pt	ycf1_pt	ycf1	protein_coding	Ycf1
+Pt	ycf2_pt	ycf2	protein_coding	Ycf2
+Pt	ycf3_pt	ycf3	protein_coding	photosystem I assembly protein Ycf3
+Pt	ycf4_pt	ycf4	protein_coding	photosystem I assembly protein Ycf4
+Mt	atp1_mt	atp1	protein_coding	ATPase subunit 1
+Mt	atp4_mt	atp4	protein_coding	ATPase subunit 4
+Mt	atp6_mt	atp6	protein_coding	ATPase subunit 6
+Mt	atp8_mt	atp8	protein_coding	ATPase subunit 8
+Mt	atp9_mt	atp9	protein_coding	ATPase subunit 9
+Mt	ccmB_mt	ccmB	protein_coding	cytochrome c biogenesis B
+Mt	ccmC_mt	ccmC	protein_coding	cytochrome c biogenesis C
+Mt	ccmFC_mt	ccmFC	protein_coding	cytochrome c biogenesis FC
+Mt	ccmFN1_mt	ccmFN1	protein_coding	cytochrome c biogenesis FN1
+Mt	ccmFN2_mt	ccmFN2	protein_coding	cytochrome c biogenesis FN2
+Mt	cob_mt	cob	protein_coding	apocytochrome b
+Mt	cox1_mt	cox1	protein_coding	cytochrome c oxidase subunit 1
+Mt	cox2_mt	cox2	protein_coding	cytochrome c oxidase subunit 2
+Mt	cox3_mt	cox3	protein_coding	cytochrome c oxidase subunit 3
+Mt	matR_mt	matR	protein_coding	maturase
+Mt	mttB_mt	mttB	protein_coding	transport membrane protein
+Mt	nad1_mt	nad1	protein_coding	NADH dehydrogenase subunit 1
+Mt	nad2_mt	nad2	protein_coding	NADH dehydrogenase subunit 2
+Mt	nad3_mt	nad3	protein_coding	NADH dehydrogenase subunit 3
+Mt	nad4_mt	nad4	protein_coding	NADH dehydrogenase subunit 4
+Mt	nad4L_mt	nad4L	protein_coding	NADH dehydrogenase subunit 4L
+Mt	nad5_mt	nad5	protein_coding	NADH dehydrogenase subunit 5
+Mt	nad6_mt	nad6	protein_coding	NADH dehydrogenase subunit 6
+Mt	nad7_mt	nad7	protein_coding	NADH dehydrogenase subunit 7
+Mt	nad9_mt	nad9	protein_coding	NADH dehydrogenase subunit 9
+Mt	rpl16_mt	rpl16	protein_coding	ribosomal protein L16
+Mt	rpl2_mt	rpl2	protein_coding	ribosomal protein L2
+Mt	rpl5_mt	rpl5	protein_coding	ribosomal protein L5
+Mt	rps12_mt	rps12	protein_coding	ribosomal protein S12
+Mt	rps3_mt	rps3	protein_coding	ribosomal protein S3
+Mt	rps4_mt	rps4	protein_coding	ribosomal protein S4
+Mt	rps7_mt	rps7	protein_coding	ribosomal protein S7
+Mt	rps14_mt	rps14	pseudogene	NA
+Mt	rps19_mt	rps19	pseudogene	NA
+Mt	sdh4_mt	sdh4	pseudogene	NA

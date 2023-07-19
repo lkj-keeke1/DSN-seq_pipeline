@@ -1,0 +1,13 @@
+sample	species	material	method	project
+Osa_DSN_rep1	nip	14-day_seedling	DSN-seq	DSN_comparision
+Osa_DSN_rep2	nip	14-day_seedling	DSN-seq	DSN_comparision
+Osa_DSN_rep3	nip	14-day_seedling	DSN-seq	DSN_comparision
+Osa_PolyA_rep1	nip	14-day_seedling	mRNA-seq	DSN_comparision
+Osa_PolyA_rep2	nip	14-day_seedling	mRNA-seq	DSN_comparision
+Osa_PolyA_rep3	nip	14-day_seedling	mRNA-seq	DSN_comparision
+Osa_Ribo-off_rep1	nip	14-day_seedling	Ribo-off-seq	DSN_comparision
+Osa_Ribo-off_rep2	nip	14-day_seedling	Ribo-off-seq	DSN_comparision
+Osa_Ribo-off_rep3	nip	14-day_seedling	Ribo-off-seq	DSN_comparision
+Ath_DSN_rep1	Col-0	21-day_seedling	DSN-seq	DSN_Ath
+Ath_DSN_rep2	Col-0	21-day_seedling	DSN-seq	DSN_Ath
+Ath_DSN_rep3	Col-0	21-day_seedling	DSN-seq	DSN_Ath

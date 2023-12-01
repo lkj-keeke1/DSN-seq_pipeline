@@ -42,7 +42,7 @@ load("tmp1_gene_info_annotated.Rdata")
 
 # genetic code table
 ## e.g.：TTT Phe F
-genetic_code_file <- "/home/hj-z2/projects/DSN-seq/data/2022-07-29_genetic_code_tbl/genetic_code.txt"
+genetic_code_file <- "/home/hj-z2/projects/DSN-seq/data/ref/genetic_code.txt"
 genetic_code_table <- read.delim(genetic_code_file, header=FALSE)
 
 # primary codon sequences of edited sites
